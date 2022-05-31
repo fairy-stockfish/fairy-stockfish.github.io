@@ -1,0 +1,12 @@
+- name: Download
+  link: /download/
+- name: Features
+  link: /features/
+- name: Showcase
+  link: /showcase/
+- name: Get Involved
+  link: /get-involved/
+- name: Blog
+  link: /blog/
+- name: About
+  link: /about/
