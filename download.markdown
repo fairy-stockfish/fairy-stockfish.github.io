@@ -2,7 +2,6 @@
 layout: page
 title: Download
 permalink: /download/
-hero_height: is-fullwidth
 ---
 ## Windows
 See the [latest release](https://github.com/ianfab/Fairy-Stockfish/releases/latest).

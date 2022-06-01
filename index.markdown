@@ -9,4 +9,5 @@ show_sidebar: true
 hero_height: is-medium
 hero_link: /download/
 hero_link_text: Download
+callouts: main_callouts
 ---

@@ -1,9 +1,9 @@
 - name: Download
   link: /download/
-- name: Features
-  link: /features/
-- name: Showcase
-  link: /showcase/
+- name: NNUE
+  link: /nnue/
+- name: Variants
+  link: /variants/
 - name: Get Involved
   link: /get-involved/
 - name: Blog
