@@ -15,7 +15,7 @@ items:
     description: >
       Fairy-Stockfish supports playing custom variants by defining game rules via a configuration file.
     call_to_action_name: Variant configuration
-    call_to_action_link: /variants/
+    call_to_action_link: /variants/#custom-variants
   - title: Trainable
     subtitle: Support for NNUE
     icon: fa-graduation-cap
