@@ -27,7 +27,7 @@ In Fairy-Stockfish NNUE evaluation parameters can either be loaded at runtime fr
 
 ### Current best NNUE networks
 
-This is an alphabetical list of current best variant NNUE networks available at [this google drive folder](https://drive.google.com/drive/folders/1m5PpiI3Kjzk_ow7F5RkwKnbO0Td-qb9J?usp=sharing) that are compatible with the latest Fairy-Stockfish release and development version. The listed Elo difference is the improvement of the respective NNUE network of the built-in handcrafted/classical evaluation function, i.e., the one that is used when not loading an NNUE file.
+This is an alphabetical list of current best variant NNUE networks available at [this google drive folder](https://drive.google.com/drive/folders/1m5PpiI3Kjzk_ow7F5RkwKnbO0Td-qb9J?usp=sharing) that are compatible with the latest Fairy-Stockfish release and development version. The listed Elo difference is the improvement of the respective NNUE network over the built-in handcrafted/classical evaluation function, i.e., the one that is used when not loading an NNUE file.
 
 |  variant | network | Elo vs. classical | date | author | comment |
 |---|---|---|---|---|---|
