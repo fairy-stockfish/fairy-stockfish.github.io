@@ -6,7 +6,7 @@ items:
     icon: fa-github
     icon_brand: true
     description: >
-      Fairy-Stockfish is published under the GPLv3 license. Its code can be read, changed, and shared using the same license.
+      Fairy-Stockfish is published under the GPLv3 license. Its code can be changed and shared using the same license.
     call_to_action_name: Code on GitHub
     call_to_action_link: https://github.com/ianfab/Fairy-Stockfish
   - title: Customizable
@@ -15,11 +15,11 @@ items:
     description: >
       Fairy-Stockfish supports playing custom variants by defining game rules via a configuration file.
     call_to_action_name: Variant configuration
-    call_to_action_link: /variants/#custom-variants
+    call_to_action_link: /custom-variants/
   - title: Trainable
     subtitle: Support for NNUE
     icon: fa-graduation-cap
     description: >
       Efficiently updatable neural networks (NNUE) can significantly enhance playing strength.
     call_to_action_name: NNUE evaluation
-    call_to_action_link: /nnue/
+    call_to_action_link: /about-nnue/

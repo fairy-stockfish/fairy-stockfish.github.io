@@ -1,29 +1,10 @@
 ---
 layout: page
-title: NNUE evaluation
+title: Download NNUE
 permalink: /nnue/
 ---
 
-By default Fairy-Stockfish uses a handcrafted evaluation function in order to evaluate chess variant positions. In order to improve playing strength compared to the handcrafted evaluation, variant-specific NNUE (efficiently updatable neural network) evaluation files can be used. If you want to directly jump to the download, see the [list of networks](/nnue/#current-best-nnue-networks) below.
-
-### What is NNUE?
-NNUE are efficiently updateable neural networks, which were first applied to shogi, then later ported to official Stockfish. From there they made their way into Fairy-Stockfish. Several generalizations have been applied to the architecture of the neural network so that it can be used for different board sizes, arbitrary piece types, variants without kings, as well as variants with piece drops. See the [wiki of the NNUE training code](https://github.com/fairy-stockfish/variant-nnue-pytorch/wiki/Technical-details#variant-nnue-halfkav2-architecture) for technical details on these generalizations.
-
-An overview over NNUE in general (not specific to variants or Fairy-Stockfish) can be found in the [chessprogramming wiki](https://www.chessprogramming.org/Stockfish_NNUE) as well as in the [documentation of the training code](https://github.com/fairy-stockfish/variant-nnue-pytorch/blob/master/docs/nnue.md).
-
-### How is it trained?
-Variant NNUE evaluation files for Fairy-Stockfish are trained using a fork of the [training code for official Stockfish](https://github.com/glinscott/nnue-pytorch) which contains many generalizations for variants with respect to board size, piece types, etc.
-* Variant NNUE training code: [Visit on GitHub](https://github.com/fairy-stockfish/variant-nnue-pytorch)
-* Fairy-Stockfish based training data generation: [Visit on GitHub](https://github.com/fairy-stockfish/variant-nnue-tools)
-
-Documentation about the data generation and training process is available in its [wiki](https://github.com/fairy-stockfish/variant-nnue-pytorch/wiki). Trained networks can be uploaded using a [google form](https://forms.gle/8Am9LTqXQJo43ps79) and are then available for download at [google drive](https://drive.google.com/drive/folders/1m5PpiI3Kjzk_ow7F5RkwKnbO0Td-qb9J?usp=sharing). The below list of networks will be updated accordingly after a new strongest network has been uploaded.
-
-### How to use it?
-In Fairy-Stockfish NNUE evaluation parameters can either be loaded at runtime from a file or included into the binary at compile-time. There is no functional difference between the two ways of loading them, it is just about convenience and file size. In order to use NNUE evaluation for chess variants in Fairy-Stockfish, you can either download a release with built-in NNUE, see the [download page](/download/), if you are very specifically interested in Xiangqi, Janggi, or Makruk, or follow the below steps to load NNUE networks at runtime for arbitrary variants:
-* Download the NNUE evaluation file you want to use from the [list below](/nnue/#current-best-nnue-networks).
-* [Download Fairy-Stockfish](/download/).
-* Set the path of the downloaded NNUE file in the `EvalFile` parameter in your GUI. Make sure that the name of the NNUE file starts with the name of the variant, as the file name is used to detect whether an NNUE file should be used for a given variant. For further details, see the [wiki](https://github.com/ianfab/Fairy-Stockfish/wiki/Settings#evalfile).
-* When you select a variant for which an NNUE file was defined in the `EvalFile`, it will start using NNUE automatically.
+By default Fairy-Stockfish uses a handcrafted evaluation function in order to evaluate chess variant positions. Variant-specific NNUE (efficiently updatable neural network) evaluation files can be used to improve playing strength compared to the handcrafted evaluation. If you want to learn more about NNUE, see the [NNUE introduction](/about-nnue/), otherwise see the downloads below.
 
 ### Current best NNUE networks
 
@@ -72,7 +53,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | grasshopper | [grasshopper-d138797fceaf.nnue](https://drive.google.com/u/0/uc?id=1_6lBiA-1AQgRbNslgRSd_gdztkZ2-cmU&export=download) | +229 | | Belzedar#8832 |
 | hoppelpoppel | [hoppelpoppel-ca81db235bbe.nnue](https://drive.google.com/u/0/uc?id=13P0Pne-h5zZorckiAvLEwTih1sSOAsBC&export=download) | +223 | 2022/04/07 | Belzedar#8832 |
 | horde  | [horde-28173ddccabe.nnue](https://drive.google.com/u/0/uc?id=16BQztGqFIS1n_dYtmdfFVE2EexF-KagX&export=download) | +490 | | Belzedar#8832 |
-| janggi  | [janggi-ffbf1d95cea2.nnue](https://drive.google.com/u/0/uc?id=1FBMt_XfXz8YNfcSnrh9X122hhdMGVQpi&export=download) | +449 | | Fabian Fichter | also available as [release with built-in NNUE](https://github.com/ianfab/Fairy-Stockfish-NNUE/releases/tag/janggi-ffbf1d95cea2)
+| janggi  | [janggi-ffbf1d95cea2.nnue](https://drive.google.com/u/0/uc?id=1FBMt_XfXz8YNfcSnrh9X122hhdMGVQpi&export=download) | +449 | | Fabian Fichter | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/janggi-ffbf1d95cea2)
 | jesonmor | [jesonmor-ed9259390055.nnue](https://drive.google.com/u/0/uc?id=1QUhX4Qu_Qo-0RyaPU1tZaA5Kvnm4dhWD&export=download) | +68 | | Belzedar#8832 |
 | kamikazerooks | [kamikazerooks-bd2283cb720a.nnue](https://drive.google.com/u/0/uc?id=1pohX_24grssrnp1zHjKgWRQAEOWNuzOD&export=download) | +1570 | 2022/05/02 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#kamikaze-rooks)
 | karouk | [karouk-b32b2113c722.nnue](https://drive.google.com/u/0/uc?id=1SIbElgATJE_2xUvt6iJN-Xm7lN7pDzsU&export=download) | +349 | 2022/04/15 | Belzedar#8832 |
@@ -83,7 +64,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | losalamos | [losalamos-dd80f372e2f7.nnue](https://drive.google.com/u/0/uc?id=1_st5a2TOP1WtgG-WeiD5jHBMIKBnfqk0&export=download) | +40 | | Belzedar#8832 |
 | losers  | [losers-86d93b2d22a3.nnue](https://drive.google.com/u/0/uc?id=1k1Me13VfhehxW4qAIoVxNj7TwRr4dV_x&export=download) | +321 | | Fabian Fichter |
 | makpong | [makpong-eae03bc9dbf8.nnue](https://drive.google.com/u/0/uc?id=1iIbHaTLDvJLF2HGMEkXs4b_mi2ajqJUU&export=download) | +931 | 2022/04/28 | Belzedar#8832 |
-| makruk  | [makruk-23def9767554.nnue](https://drive.google.com/u/0/uc?id=1Of6fSzUEUKlu5QosO-1hr5G_YOX9Pq7Z&export=download) | +235 | | Belzedar#8832 | also available as [release with built-in NNUE](https://github.com/ianfab/Fairy-Stockfish-NNUE/releases/tag/makruk-23def9767554)
+| makruk  | [makruk-23def9767554.nnue](https://drive.google.com/u/0/uc?id=1Of6fSzUEUKlu5QosO-1hr5G_YOX9Pq7Z&export=download) | +235 | | Belzedar#8832 | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/makruk-23def9767554)
 | makrukhouse | [makrukhouse-200da8bf0331.nnue](https://drive.google.com/u/0/uc?id=1pSMfM0qAaxwPdTCNZejFvzuD5meRncB1&export=download) | +275 | | Belzedar#8832 |
 | massacre | [massacre-06c1f5400bba.nnue](https://drive.google.com/u/0/uc?id=1u1cPi0ffvNe06IPWzQ6vC6DOZJIk88Sq&export=download) | +284 | 2022/04/18 | mtaktikos#8757 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#massacre-chess)
 | minishogi  | [minishogi-42cd5b0df4fe.nnue](https://drive.google.com/u/0/uc?id=1kF2CSHkrHllPvpi_w6LgeU_EObVGoOp9&export=download) | +135 | 2022/04/28 | Belzedar#8832 | 1st place in [14th UEC cup](https://github.com/ianfab/Fairy-Stockfish/wiki/Tournament-results#14th-uec-cup-minishogi-2022)
@@ -109,6 +90,6 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | threekings | [threekings-e72e1eda465f.nnue](https://drive.google.com/u/0/uc?id=1X3SFN_khp_FtLXZ1_148oMWS-kLPoaH1&export=download) | +100 | | Belzedar#8832 |
 | torishogi | [torishogi-0c3670e88a63.nnue](https://drive.google.com/u/0/uc?id=12IgQRwjzny6oRTeu_7nZapwHskk1GmZR&export=download) | +368 | | Belzedar#8832 |
 | twokings2 | [twokings2-7a85df6f13ff.nnue](https://drive.google.com/u/0/uc?id=1ES6d6zkOip--hjDqQxfvgX41W0CfS0Ay&export=download) | +244 | 2022/04/20 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#two-kings-2)
-| xiangqi  | [xiangqi-6f64c55fcb28.nnue](https://drive.google.com/u/0/uc?id=1PyDW6bgQbvOlnIE_OEcMUNQnJiZSLCAG&export=download) | +640 | 2022/05/10 | Belzedar#8832 | also available as [release with built-in NNUE](https://github.com/ianfab/Fairy-Stockfish-NNUE/releases/tag/xiangqi-6f64c55fcb28)
+| xiangqi  | [xiangqi-6f64c55fcb28.nnue](https://drive.google.com/u/0/uc?id=1PyDW6bgQbvOlnIE_OEcMUNQnJiZSLCAG&export=download) | +640 | 2022/05/10 | Belzedar#8832 | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/xiangqi-6f64c55fcb28)
 
 When a variant is specified as compatible to networks of a different variant, such as cambodian->makruk, the NNUE network can simply be used with the current name, it does **not** need to be renamed. E.g., `makruk-....nnue` can be directly used for cambodian as well as makruk.

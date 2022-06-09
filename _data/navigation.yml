@@ -2,8 +2,25 @@
   link: /download/
 - name: NNUE
   link: /nnue/
+  dropdown:
+  - name: About NNUE
+    link: /about-nnue/
+  - name: Download NNUE
+    link: /nnue/
 - name: Variants
   link: /variants/
+  dropdown:
+  - name: Built-in variants
+    link: /variants/
+  - name: Custom variants
+    link: /custom-variants/
+- name: GUIs
+  link: /gui/
+  dropdown:
+  - name: Offline
+    link: /gui/
+  - name: Online
+    link: /online/
 - name: Get Involved
   link: /get-involved/
 - name: Blog

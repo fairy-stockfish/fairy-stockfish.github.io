@@ -14,8 +14,8 @@ You can find the source code for Fairy-Stockfish at GitHub:
 * [Fairy-Stockfish on GitHub](https://github.com/ianfab/Fairy-Stockfish)
 
 ## NNUE training
-If you want to start training NNUE networks, you can have a look at the [introduction in the wiki](https://github.com/ianfab/variant-nnue-pytorch/wiki/Introduction). In case of questions please see the community links above.
-* [Variant NNUE trainer on GitHub](https://github.com/ianfab/variant-nnue-pytorch)
+If you want to start training NNUE networks, you can have a look at the [introduction in the wiki](https://github.com/fairy-stockfish/variant-nnue-pytorch/wiki/Introduction). In case of questions please see the community links above.
+* [Variant NNUE trainer on GitHub](https://github.com/fairy-stockfish/variant-nnue-pytorch)
 
 ## Testing
 * [Variantfishtest.org](http://variantfishtest.org/)

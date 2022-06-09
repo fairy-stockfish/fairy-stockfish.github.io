@@ -4,9 +4,7 @@ title: Variants
 permalink: /variants/
 ---
 
-Fairy-Stockfish has a large variety of variants already built in and can be extended further using a variant configuration file.
-
-## Built-in variants
+Fairy-Stockfish has a large variety of variants already built in and can be extended further using [custom variants](/custom-variants/). All the built-in games and variants are listed below.
 
 ### Regional and historical games
 - [Xiangqi](https://en.wikipedia.org/wiki/Xiangqi), [Manchu](https://en.wikipedia.org/wiki/Manchu_chess), [Minixiangqi](http://mlwi.magix.net/bg/minixiangqi.htm), [Supply chess](https://en.wikipedia.org/wiki/Xiangqi#Variations)
@@ -52,24 +50,3 @@ Fairy-Stockfish has a large variety of variants already built in and can be exte
 - [Clobber](https://en.wikipedia.org/wiki/Clobber)
 - [Cfour](https://en.wikipedia.org/wiki/Connect_Four), [Tic-tac-toe](https://en.wikipedia.org/wiki/Tic-tac-toe)
 - [Flipersi](https://en.wikipedia.org/wiki/Reversi), [Flipello](https://en.wikipedia.org/wiki/Reversi#Othello)
-
-## Custom variants
-
-User-defined variants can be added via an INI-style configuration file and be loaded at runtime without needing to recompile the program. See the [variants.ini](https://github.com/ianfab/Fairy-Stockfish/blob/master/src/variants.ini) in the repository for documentation and examples of variant configuration.
-
-Let's say we want to replace the bishops in chess with knight+bishop compound pieces, also referred to as archbishops. The configuration could look as follows:
-
-```
-# we name our variant "testvariant" and let it inherit all the rules from chess
-[ourtestvariant:chess]
-# now we add the archbishop and assign it "a" as an abbreviation
-archbishop = a
-# since bishops are obsolete now, we remove them. This isn't strictly required, but recommended.
-bishop = -
-# we also need to update the promotion rules accordingly
-promotionPieceTypes = nrqa
-# and now let's define the new starting position
-startFen = rnaqkanr/pppppppp/8/8/8/8/PPPPPPPP/RNAQKANR w KQkq - 0 1
-```
-
-And that's already it. We can now e.g. go to the [Fairy-Stockfish playground](https://fairyground.vercel.app/) to test it directly in the browser. Just paste the above configuration to a file and load that file in the `variants.ini` section. After selecting `ourtestvariant` you should be able to play the variant against the Fairy-Stockfish or let it play against itself.
