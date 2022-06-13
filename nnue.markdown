@@ -77,7 +77,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | ordamirror | [ordamirror-b432a42e3738.nnue](https://drive.google.com/u/0/uc?id=1Fn1D5bUvgig0kj3xN_T20xKA9aauKQQ0&export=download) | +473 | | Belzedar#8832 |
 | placement |  | | | | Compatible with chess (`nn-...`) networks
 | racingchess | [racingchess-2d84b5d38001.nnue](https://drive.google.com/u/0/uc?id=1_bm2ZzDBWaCToXyrDhFDyAQ7xvXQPhZw&export=download) | +492 | 2022/04/12 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#racing-chess)
-| racingkings  | [racingkings-15714b5ffc15.nnue](https://drive.google.com/u/0/uc?id=1AgFUj6jCSoAIR4nZZT9rR_F7IZq2S7VN&export=download) | +362 | 2022/05/27 | Belzedar#8832 |
+| racingkings  | [racingkings-636b95f085e3.nnue](https://drive.google.com/u/0/uc?id=1Tiq8FqSu7eiekE2iaWQzSdJPg-mhvLzJ&export=download) | +374 | 2022/06/13 | Belzedar#8832 |
 | seirawan  | [seirawan-432c65fe71fc.nnue](https://drive.google.com/u/0/uc?id=1vZfLrkKdO1Sdo__jRPpuvrvvQD_mYsZX&export=download) | +359 | 2022/05/24 | Belzedar#8832 |
 | shatar | [shatar-9798d8353f1e.nnue](https://drive.google.com/u/0/uc?id=10DF_Rj8DcGkYjtylbZ4VnHwj8slth0CU&export=download) | +228 | 2022/04/20 | Belzedar#8832 |
 | shatranj  | [shatranj-27f6cf35e3fc.nnue](https://drive.google.com/u/0/uc?id=15LZixqirndspeF9p8HCqIv5cLHf0T0Kx&export=download) | +222 | 2022/04/24 | Belzedar#8832 |
