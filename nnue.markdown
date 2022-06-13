@@ -50,7 +50,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | gorogoroplus | [gorogoroplus-7bc64726c1c1.nnue](https://drive.google.com/u/0/uc?id=1-k87I3fKHrpfbZwEgqDzYVlZivL4emcE&export=download) | +230 | 2022/04/15 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#goro-goro-plus)
 | grand | [grand-9e13c7b0ed97.nnue](https://drive.google.com/u/0/uc?id=1Q84y9M93IQG3GUr-ibY8NGjJSEnpV3zy&export=download) | +390 | 2022/05/17 | Belzedar#8832 |
 | grandhouse | [grandhouse-35c216476fc5.nnue](https://drive.google.com/u/0/uc?id=1gxcRdtiUDUdBA0MPFZljlV43TO5eXdPD&export=download) | +360 | 2022/04/21 | Belzedar#8832 |
-| grasshopper | [grasshopper-d138797fceaf.nnue](https://drive.google.com/u/0/uc?id=1_6lBiA-1AQgRbNslgRSd_gdztkZ2-cmU&export=download) | +229 | | Belzedar#8832 |
+| grasshopper | [grasshopper-2bb252371adf.nnue](https://drive.google.com/u/0/uc?id=1dE7NiNapQ8T3-D4kaak-LxqIjXUWRcaa&export=download) | +2574 | 2022/06/13 | Belzedar#8832 |
 | hoppelpoppel | [hoppelpoppel-ca81db235bbe.nnue](https://drive.google.com/u/0/uc?id=13P0Pne-h5zZorckiAvLEwTih1sSOAsBC&export=download) | +223 | 2022/04/07 | Belzedar#8832 |
 | horde  | [horde-28173ddccabe.nnue](https://drive.google.com/u/0/uc?id=16BQztGqFIS1n_dYtmdfFVE2EexF-KagX&export=download) | +490 | | Belzedar#8832 |
 | janggi  | [janggi-ffbf1d95cea2.nnue](https://drive.google.com/u/0/uc?id=1FBMt_XfXz8YNfcSnrh9X122hhdMGVQpi&export=download) | +449 | | Fabian Fichter | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/janggi-ffbf1d95cea2)
