@@ -72,7 +72,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | misere | [misere-c488fb592f7b.nnue](https://drive.google.com/u/0/uc?id=169eSjDw_Q-9YplVyDZMCqOFyzy8y2rvN&export=download) | +9 | 2022/06/26 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#misere-chess)
 | mounted | [mounted-7a5dfe301eaf.nnue](https://drive.google.com/u/0/uc?id=1xjLRsSP0io5yaXS8yY9oANML7o4wA-Ut&export=download) | +297 | 2022/04/15 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#mounted)
 | newzealand | [newzealand-0dab2349cc44.nnue](https://drive.google.com/u/0/uc?id=1HMlzQYxwBqnRXxJiIjH6YRFyEj6_dcBP&export=download) | +147 | | Belzedar#8832 |
-| nightrider | [nightrider-797ce077f032.nnue](https://drive.google.com/u/0/uc?id=1QqtLEDpWWS7ohja758BTVe0hYpPFBjiA&export=download) | +158 | | Belzedar#8832 |
+| nightrider | [nightrider-5086efb80097.nnue](https://drive.google.com/u/0/uc?id=1YEEuEjhzCBEXMw0NPgNxWak7q_35OKSZ&export=download) | +420 | 2022/06/26 | Belzedar#8832 |
 | orda | [orda-af8fab8f210b.nnue](https://drive.google.com/u/0/uc?id=1feTfj9CnhHYht-Ij1irQ1PLu6UFhucqd&export=download) | +205 | | Belzedar#8832 |
 | ordamirror | [ordamirror-b432a42e3738.nnue](https://drive.google.com/u/0/uc?id=1Fn1D5bUvgig0kj3xN_T20xKA9aauKQQ0&export=download) | +473 | | Belzedar#8832 |
 | placement |  | | | | Compatible with chess (`nn-...`) networks
