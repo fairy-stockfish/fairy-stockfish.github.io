@@ -19,7 +19,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | amazon | [amazon-f87549144bf8.nnue](https://drive.google.com/u/0/uc?id=1lY_V49wnvDQUrS_dRzLaNdmuhCNPbe2K&export=download) | +138 | 2022/04/24 | Belzedar#8832 |
 | asean | [asean-88c4f9118f34.nnue](https://drive.google.com/u/0/uc?id=1ChM8AhBafoMeyJJDVTxBs9oJ6uIqcEnX&export=download) | +200 | | Belzedar#8832 |
 | ataxx | [ataxx-e631fe1b1b6d.nnue](https://drive.google.com/u/0/uc?id=1RxG06786uZYuY7wCQ6AX5xM4M8SS90p9&export=download) | +202 | 2022/05/30 | Belzedar#8832 |
-| atomic  | [atomic-4ecb2067c716.nnue](https://drive.google.com/u/0/uc?id=1j-iHpmx37z88-3agaAM4ZAWh45hUwnJ2&export=download) | +601 | 2022/04/07 | Belzedar#8832 |
+| atomic  | [atomic-e801e22d2c32.nnue](https://drive.google.com/u/0/uc?id=14CYA7qV1Jsh5g-lpg46-tz9Whp8zN0aI&export=download) | +653 | 2022/07/01 | Belzedar#8832 |
 | backrank | [backrank-db95f88c50c9.nnue](https://drive.google.com/u/0/uc?id=1xF02gcBh7OJLiAy4apUXdNfgmswsl_7H&export=download) | +1165 | 2022/05/03 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#backrank)
 | breakthrough  | [breakthrough-b0305d859ae9.nnue](https://drive.google.com/u/0/uc?id=1n78zlt3UqWcn-X9Av6-iW8Ld1AreaKqm&export=download) | +1522 | 2022/05/27 | Belzedar#8832 |
 | breakthrough6 | [breakthrough6-c20c60a05bfd.nnue](https://drive.google.com/u/0/uc?id=1i1yrvaEApCC_ymcOb8FWnXJeFf5uD4Uu&export=download) | +355 | 2022/04/24 | mtaktikos#8757 | [6x6 version of Breakthrough](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#6x6-breakthrough)
