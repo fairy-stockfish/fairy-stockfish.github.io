@@ -53,7 +53,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | grasshopper | [grasshopper-2bb252371adf.nnue](https://drive.google.com/u/0/uc?id=1dE7NiNapQ8T3-D4kaak-LxqIjXUWRcaa&export=download) | +2574 | 2022/06/13 | Belzedar#8832 |
 | hoppelpoppel | [hoppelpoppel-ca81db235bbe.nnue](https://drive.google.com/u/0/uc?id=13P0Pne-h5zZorckiAvLEwTih1sSOAsBC&export=download) | +223 | 2022/04/07 | Belzedar#8832 |
 | horde  | [horde-28173ddccabe.nnue](https://drive.google.com/u/0/uc?id=16BQztGqFIS1n_dYtmdfFVE2EexF-KagX&export=download) | +490 | | Belzedar#8832 |
-| janggi  | [janggi-ffbf1d95cea2.nnue](https://drive.google.com/u/0/uc?id=1FBMt_XfXz8YNfcSnrh9X122hhdMGVQpi&export=download) | +449 | | Fabian Fichter | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/janggi-ffbf1d95cea2)
+| janggi  | [janggi-77213f161f0f.nnue](https://drive.google.com/u/0/uc?id=1frH9uArVDEKDtx_Gn4QZRtCV0LRs1KRV&export=download) | +722 | 2022/07/05 | Belzedar#8832 | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/janggi-77213f161f0f)
 | jesonmor | [jesonmor-ed9259390055.nnue](https://drive.google.com/u/0/uc?id=1QUhX4Qu_Qo-0RyaPU1tZaA5Kvnm4dhWD&export=download) | +68 | | Belzedar#8832 |
 | kamikazerooks | [kamikazerooks-bd2283cb720a.nnue](https://drive.google.com/u/0/uc?id=1pohX_24grssrnp1zHjKgWRQAEOWNuzOD&export=download) | +1570 | 2022/05/02 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#kamikaze-rooks)
 | karouk | [karouk-b32b2113c722.nnue](https://drive.google.com/u/0/uc?id=1SIbElgATJE_2xUvt6iJN-Xm7lN7pDzsU&export=download) | +349 | 2022/04/15 | Belzedar#8832 |
