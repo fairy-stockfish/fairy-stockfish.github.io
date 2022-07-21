@@ -38,7 +38,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | chessvshp | [chessvshp-ab6490858f72.nnue](https://drive.google.com/u/0/uc?id=1QoOw0_KTNt1p2J0KaTDAK741od_H_uwK&export=download) | +174 | 2022/05/27 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#chess-vs-hoppel-poppel)
 | coregal | [coregal-fd05f101ebca.nnue](https://drive.google.com/u/0/uc?id=1dYHcHl4BHxQv_Y2topc61gSswshnY5V5&export=download) | +49 | | Belzedar#8832 |
 | courier | [courier-3c1762801b7a.nnue](https://drive.google.com/u/0/uc?id=1vX1CbKhUBWjkHm0V9gdKDzAhbMPKrs-T&export=download) | +54 | | Belzedar#8832 |
-| crazyhouse  | [crazyhouse-f175a3f8ba53.nnue](https://drive.google.com/u/0/uc?id=1UaXVLTC8ifTSYSVdbDXUxpkzApQMYqh3&export=download) | +1087 | 2022/06/28 | Belzedar#8832 |
+| crazyhouse  | [crazyhouse-be2e41920378.nnue](https://drive.google.com/u/0/uc?id=168vawXrj2fEeRSLuWaL2pB7GXgQelE-c&export=download) | +1109 | 2022/07/21 | Belzedar#8832 |
 | crossing | [crossing-826f9ef7f1ee.nnue](https://drive.google.com/u/0/uc?id=1ur46ZvHatLGR02srAuD6Aw9VwmTafltU&export=download) | +308 | 2022/04/19 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#crossing)
 | dobutsu | [dobutsu-b69e434ed334.nnue](https://drive.google.com/u/0/uc?id=1RkejB62mrXj9h0QdwT9ABsA2fvNzSPMJ&export=download) | +21 | 2022/05/24 | Belzedar#8832 |
 | doublearmy | [doublearmy-85e8181920b1.nnue](https://drive.google.com/u/0/uc?id=1CXszbxxS7MJS16xV9tGsuZ-_UrJnDzyn&export=download) | +208 | 2022/04/14 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#double-army)
