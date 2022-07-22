@@ -93,7 +93,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | threekings | [threekings-e72e1eda465f.nnue](https://drive.google.com/u/0/uc?id=1X3SFN_khp_FtLXZ1_148oMWS-kLPoaH1&export=download) | +100 | | Belzedar#8832 |
 | torishogi | [torishogi-0c3670e88a63.nnue](https://drive.google.com/u/0/uc?id=12IgQRwjzny6oRTeu_7nZapwHskk1GmZR&export=download) | +368 | | Belzedar#8832 |
 | twokings2 | [twokings2-7a85df6f13ff.nnue](https://drive.google.com/u/0/uc?id=1ES6d6zkOip--hjDqQxfvgX41W0CfS0Ay&export=download) | +244 | 2022/04/20 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#two-kings-2)
-| xiangqi  | [xiangqi-d134cdf48baf.nnue](https://drive.google.com/u/0/uc?id=1qkJFajtX8cyozmebgewAlYA57BbUUrfM&export=download) | +741 | 2022/07/03 | 竹影听溪 | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/xiangqi-d134cdf48baf)
+| xiangqi  | [xiangqi-ae0082262b68.nnue](https://drive.google.com/u/0/uc?id=1Wrzm0J4Yhvcb6R9v-dJT6aHI39QZusgP&export=download) | +765 | 2022/07/22 | 竹影听溪 | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/xiangqi-ae0082262b68)
 | xiangqihouse | [xiangqihouse-dc5b4560e41c.nnue](https://drive.google.com/u/0/uc?id=1DkyasRcxpt9D5kE8MH4JsZGUDmaS6s44&export=download) | +535 | 2022/06/13 | Belzedar#8832 | Xiangqi + Crazyhouse hybrid variant.
 
 When a variant is specified as compatible to networks of a different variant, such as cambodian->makruk, the NNUE network can simply be used with the current name, it does **not** need to be renamed. E.g., `makruk-....nnue` can be directly used for cambodian as well as makruk.
