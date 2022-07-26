@@ -59,7 +59,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | karouk | [karouk-b32b2113c722.nnue](https://drive.google.com/u/0/uc?id=1SIbElgATJE_2xUvt6iJN-Xm7lN7pDzsU&export=download) | +349 | 2022/04/15 | Belzedar#8832 |
 | kinglet | [kinglet-7e7b5aaa851e.nnue](https://drive.google.com/u/0/uc?id=1id95-uZiDCxIO2ywhNzh8X3cvEUlXjmM&export=download) | +127 | | Belzedar#8832 |
 | kingofthehill  | [kingofthehill-978b86d0e6a4.nnue](https://drive.google.com/u/0/uc?id=1x25r_1PgB5XqttkfR494M4rseiIm0BAV&export=download) | +644 | 2022/04/19 | Belzedar#8832 |
-| knightmate  | [knightmate-79005add86eb.nnue](https://drive.google.com/u/0/uc?id=1kjuWnMV0zFMiPDATo56-4A5fc8YH_4hD&export=download) | +361 | 2022/04/24 | Belzedar#8832 | |
+| knightmate  | [knightmate-cd61f8401526.nnue](https://drive.google.com/u/0/uc?id=1Z3fAjS5Ea7bzCzUYgsp8Fox-wjZDl3kN&export=download) | +488 | 2022/07/26 | Belzedar#8832 | |
 | kyotoshogi | [kyotoshogi-bd1003a29d89.nnue](https://drive.google.com/u/0/uc?id=1vj829y8S_MHJF3YPuJ28O_2o7oSU_yaz&export=download) | +127 | 2022/05/24 | Belzedar#8832 |
 | losalamos | [losalamos-dd80f372e2f7.nnue](https://drive.google.com/u/0/uc?id=1_st5a2TOP1WtgG-WeiD5jHBMIKBnfqk0&export=download) | +40 | | Belzedar#8832 |
 | losers  | [losers-86d93b2d22a3.nnue](https://drive.google.com/u/0/uc?id=1k1Me13VfhehxW4qAIoVxNj7TwRr4dV_x&export=download) | +321 | | Fabian Fichter |
