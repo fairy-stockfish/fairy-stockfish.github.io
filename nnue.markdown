@@ -45,7 +45,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | dragonfly | [dragonfly-f810e661ca8b.nnue](https://drive.google.com/u/0/uc?id=1qaFibACiHYaM9ExdqAr-Y_RGb6HI5zoC&export=download) | +424 | 2022/04/12 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#dragonfly-chess)
 | empire | [empire-751feb44316d.nnue](https://drive.google.com/u/0/uc?id=17CvRd9jxeZ21uop8DHhtHnw08hbz-sBI&export=download) | +635 | 2022/05/24 | Belzedar#8832 |
 | euroshogi | [euroshogi-bf3218dec3c8.nnue](https://drive.google.com/u/0/uc?id=1YUVgQ_hhtld9SamUnv2dW8nG6iGiyVMW&export=download) | +601 | 2022/07/23 | Belzedar#8832 |
-| extinction | [extinction-4866c9c5c2b6.nnue](https://drive.google.com/u/0/uc?id=1Z5Tw7_rOn03d_MiTgQMFbflqQdnJVA1x&export=download) | +556 | | Belzedar#8832 | slightly weaker than the now incompatible v1.4 (60 elo). |
+| extinction | [extinction-a8e86467b370.nnue](https://drive.google.com/u/0/uc?id=1CSaOnPi0Gfo3t9GqC1XTLoXHBG_G8wvK&export=download) | +863 | 2022/07/27 | Belzedar#8832 |
 | flipello | [flipello-aed1bd5d741b.nnue](https://drive.google.com/u/0/uc?id=1elo97JNczmeQSyK_YMxw3xmOD9_fWP-C&export=download) | +354 | 2022/06/10 | Belzedar#8832 |
 | gorogoroplus | [gorogoroplus-7bc64726c1c1.nnue](https://drive.google.com/u/0/uc?id=1-k87I3fKHrpfbZwEgqDzYVlZivL4emcE&export=download) | +230 | 2022/04/15 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#goro-goro-plus)
 | grand | [grand-9e13c7b0ed97.nnue](https://drive.google.com/u/0/uc?id=1Q84y9M93IQG3GUr-ibY8NGjJSEnpV3zy&export=download) | +390 | 2022/05/17 | Belzedar#8832 |
