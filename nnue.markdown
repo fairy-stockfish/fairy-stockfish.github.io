@@ -28,7 +28,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | cambodian |  | |  | | Compatible with makruk networks
 | capablanca  | [capablanca-bb644ef32758.nnue](https://drive.google.com/u/0/uc?id=1FbTMVSE8MA_0hrTTcTm5edYXTH8PItHR&export=download) | +354 | 2022/05/10 | Belzedar#8832 | Also compatible to gothic, embassy, caparandom
 | capahouse | [capahouse-9410dee8f2a3.nnue](https://drive.google.com/u/0/uc?id=1xEHbRv1DBgIGDjQJKjWBb5ccw75Ynshv&export=download) | +100 | 2022/04/18 | mtaktikos#8757 | Capablanca + Crazyhouse
-| capture | [capture-492a6ee1f0e2.nnue](https://drive.google.com/u/0/uc?id=1bqGXGfdar6M1KbdIOn83jerDIlIzqmBs&export=download) | +237 | 2022/04/15 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#capture-chess)
+| capture | [capture-d1dc2e97a3d8.nnue](https://drive.google.com/u/0/uc?id=1DxWtldVM0TSniPAKzlhAMGYHuZSqpYH7&export=download) | +603 | 2022/07/29 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#capture-chess)
 | captureall | [captureall-319f16ac33aa.nnue](https://drive.google.com/u/0/uc?id=1hOmgBNrByjXndmgCAA_48_AKwdoeDAHK&export=download) | +154 | 2022/04/24 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#capture-all)
 | chak | [chak-5886256f7530.nnue](https://drive.google.com/u/0/uc?id=1LKiRbLegUj2hzjed76pnvk0Sd1qBagzJ&export=download) | +1027 | 2022/05/09 | Belzedar#8832 |
 | chaturanga  | [chaturanga-1889e98f8d54.nnue](https://drive.google.com/u/0/uc?id=1kqqsa-sY-Azrqe0pFMPNPN2ztIYpg0OA&export=download) | +156 | 2022/04/20 | Belzedar#8832 |
