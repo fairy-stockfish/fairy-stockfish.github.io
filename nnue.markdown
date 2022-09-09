@@ -38,7 +38,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | chess | [nn-46832cfbead3.nnue](https://tests.stockfishchess.org/api/nn/nn-46832cfbead3.nnue) | +300 | | | Net from official SF
 | chessvshp | [chessvshp-ab6490858f72.nnue](https://drive.google.com/u/0/uc?id=1QoOw0_KTNt1p2J0KaTDAK741od_H_uwK&export=download) | +174 | 2022/05/27 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#chess-vs-hoppel-poppel)
 | coregal | [coregal-ad18884bdd3d.nnue](https://drive.google.com/u/0/uc?id=1n0NMAj18LLVVB53hn19XPmc07d8a6aPR&export=download) | +265 | 2022/07/31 | Belzedar#8832 |
-| courier | [courier-3c1762801b7a.nnue](https://drive.google.com/u/0/uc?id=1vX1CbKhUBWjkHm0V9gdKDzAhbMPKrs-T&export=download) | +54 | | Belzedar#8832 |
+| courier | [courier-dd4bd1b77c17.nnue](https://drive.google.com/u/0/uc?id=1fL4VOp1n8RH-S3xU63rYbVCgo-oJ-XCm&export=download) | +756 | 2022/09/09 | Belzedar#8832 |
 | crazyhouse  | [crazyhouse-8ebf84784ad2.nnue](https://drive.google.com/u/0/uc?id=1nieguR4yCb0BlME-AUhcrFYkmyIOGvqs&export=download) | +1136 | 2022/09/05 | Belzedar#8832 |
 | crossing | [crossing-796ff991bbb5.nnue](https://drive.google.com/u/0/uc?id=1nenleVt6iuwLV-BNCcMRGY9YPo286X6O&export=download) | +571 | 2022/07/31 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#crossing)
 | dobutsu | [dobutsu-b69e434ed334.nnue](https://drive.google.com/u/0/uc?id=1RkejB62mrXj9h0QdwT9ABsA2fvNzSPMJ&export=download) | +21 | 2022/05/24 | Belzedar#8832 |
