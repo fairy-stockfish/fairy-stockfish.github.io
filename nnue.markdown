@@ -18,7 +18,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | almost | [almost-39e5d547319b.nnue](https://drive.google.com/u/0/uc?id=1icb5PxWDOtz4wQ1LCCXBPfn1lA2Hgp-5&export=download) | +120 | 2022/04/24 | Belzedar#8832 |
 | amazon | [amazon-f87549144bf8.nnue](https://drive.google.com/u/0/uc?id=1lY_V49wnvDQUrS_dRzLaNdmuhCNPbe2K&export=download) | +138 | 2022/04/24 | Belzedar#8832 |
 | antichess | [antichess-689c016df8e0.nnue](https://drive.google.com/u/0/uc?id=1SBLSmQmfrsxFHa3ntAhfYXyL3CoVSSL2&export=download) | +80 | 2022/08/24 | Belzedar#8832 |
-| asean | [asean-88c4f9118f34.nnue](https://drive.google.com/u/0/uc?id=1ChM8AhBafoMeyJJDVTxBs9oJ6uIqcEnX&export=download) | +200 | | Belzedar#8832 |
+| asean | [asean-47ebb2f6be7b.nnue](https://drive.google.com/u/0/uc?id=123GKcbRkAEdOSi6q6tg-qYTuv1dIwEue&export=download) | +505 | 2022/09/12 | Belzedar#8832 |
 | ataxx | [ataxx-e631fe1b1b6d.nnue](https://drive.google.com/u/0/uc?id=1RxG06786uZYuY7wCQ6AX5xM4M8SS90p9&export=download) | +202 | 2022/05/30 | Belzedar#8832 |
 | atomic  | [atomic-2cf13ff256cc.nnue](https://drive.google.com/u/0/uc?id=1bC7T3iDft8Kbuxlu3Vm2fERxk7cOSoDy&export=download) | +719 | 2022/08/24 | Belzedar#8832 |
 | backrank | [backrank-db95f88c50c9.nnue](https://drive.google.com/u/0/uc?id=1xF02gcBh7OJLiAy4apUXdNfgmswsl_7H&export=download) | +1165 | 2022/05/03 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#backrank)
