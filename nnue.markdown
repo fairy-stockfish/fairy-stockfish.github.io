@@ -43,6 +43,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | crossing | [crossing-796ff991bbb5.nnue](https://drive.google.com/u/0/uc?id=1nenleVt6iuwLV-BNCcMRGY9YPo286X6O&export=download) | +571 | 2022/07/31 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#crossing)
 | dobutsu | [dobutsu-b69e434ed334.nnue](https://drive.google.com/u/0/uc?id=1RkejB62mrXj9h0QdwT9ABsA2fvNzSPMJ&export=download) | +21 | 2022/05/24 | Belzedar#8832 |
 | doublearmy | [doublearmy-ec096e17b49b.nnue](https://drive.google.com/u/0/uc?id=1oLMMqAYPYyFVBbdnpwmACEuJcncdHEUh&export=download) | +392 | 2022/08/01 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#double-army)
+| dragon | [dragon-38de1d1ced8a.nnue](https://drive.google.com/u/0/uc?id=1o1ikZ08AKFiu7Gc2hsDA2kxhVI8VUX_e&export=download) | +139 | 2022/09/12 | Belzedar#8832 |
 | dragonfly | [dragonfly-f810e661ca8b.nnue](https://drive.google.com/u/0/uc?id=1qaFibACiHYaM9ExdqAr-Y_RGb6HI5zoC&export=download) | +424 | 2022/04/12 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#dragonfly-chess)
 | empire | [empire-751feb44316d.nnue](https://drive.google.com/u/0/uc?id=17CvRd9jxeZ21uop8DHhtHnw08hbz-sBI&export=download) | +635 | 2022/05/24 | Belzedar#8832 |
 | euroshogi | [euroshogi-bf3218dec3c8.nnue](https://drive.google.com/u/0/uc?id=1YUVgQ_hhtld9SamUnv2dW8nG6iGiyVMW&export=download) | +601 | 2022/07/23 | Belzedar#8832 |
