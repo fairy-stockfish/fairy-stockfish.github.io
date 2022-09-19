@@ -67,7 +67,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | losers  | [losers-3ea1d7d4a61f.nnue](https://drive.google.com/u/0/uc?id=1DgqWen6CkkU6kdyRt4cGfNrUOkP02Bzk&export=download) | +368 | 2022/09/19 | Belzedar#8832 |
 | makpong | [makpong-eae03bc9dbf8.nnue](https://drive.google.com/u/0/uc?id=1iIbHaTLDvJLF2HGMEkXs4b_mi2ajqJUU&export=download) | +931 | 2022/04/28 | Belzedar#8832 |
 | makruk  | [makruk-23def9767554.nnue](https://drive.google.com/u/0/uc?id=1Of6fSzUEUKlu5QosO-1hr5G_YOX9Pq7Z&export=download) | +235 | | Belzedar#8832 | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/makruk-23def9767554)
-| makrukhouse | [makrukhouse-200da8bf0331.nnue](https://drive.google.com/u/0/uc?id=1pSMfM0qAaxwPdTCNZejFvzuD5meRncB1&export=download) | +275 | | Belzedar#8832 |
+| makrukhouse | [makrukhouse-3b28cf864f23.nnue](https://drive.google.com/u/0/uc?id=1C0e8hhhbNzYs1epvKozKOO063wtCdvWI&export=download) | +600 | 2022/09/19 | Belzedar#8832 |
 | massacre | [massacre-06c1f5400bba.nnue](https://drive.google.com/u/0/uc?id=1u1cPi0ffvNe06IPWzQ6vC6DOZJIk88Sq&export=download) | +284 | 2022/04/18 | mtaktikos#8757 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#massacre-chess)
 | minishogi  | [minishogi-42cd5b0df4fe.nnue](https://drive.google.com/u/0/uc?id=1kF2CSHkrHllPvpi_w6LgeU_EObVGoOp9&export=download) | +135 | 2022/04/28 | Belzedar#8832 | 1st place in [14th UEC cup](https://github.com/ianfab/Fairy-Stockfish/wiki/Tournament-results#14th-uec-cup-minishogi-2022)
 | minixiangqi | [minixiangqi-12c45d5da817.nnue](https://drive.google.com/u/0/uc?id=1olNzEqMDtqLC7lnt7Rsst39ar1tzsv86&export=download) | +604 | 2022/04/26 | Belzedar#8832 |
