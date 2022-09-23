@@ -75,7 +75,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | mounted | [mounted-7a5dfe301eaf.nnue](https://drive.google.com/u/0/uc?id=1xjLRsSP0io5yaXS8yY9oANML7o4wA-Ut&export=download) | +297 | 2022/04/15 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#mounted)
 | newzealand | [newzealand-464a42989876.nnue](https://drive.google.com/u/0/uc?id=11TC1irKBewo25nbqpX2o0tdgQuyrWjMx&export=download) | +359 | 2022/09/20 | Belzedar#8832 |
 | nightrider | [nightrider-5086efb80097.nnue](https://drive.google.com/u/0/uc?id=1YEEuEjhzCBEXMw0NPgNxWak7q_35OKSZ&export=download) | +420 | 2022/06/26 | Belzedar#8832 |
-| orda | [orda-af8fab8f210b.nnue](https://drive.google.com/u/0/uc?id=1feTfj9CnhHYht-Ij1irQ1PLu6UFhucqd&export=download) | +205 | | Belzedar#8832 |
+| orda | [orda-ac0af819f3a3.nnue](https://drive.google.com/u/0/uc?id=1jqvVVfxLBklECx14N6aLPnMVf5CZ8iXI&export=download) | +815 | 2022/09/23 | Belzedar#8832 |
 | ordamirror | [ordamirror-b432a42e3738.nnue](https://drive.google.com/u/0/uc?id=1Fn1D5bUvgig0kj3xN_T20xKA9aauKQQ0&export=download) | +473 | | Belzedar#8832 |
 | placement |  | | | | Compatible with chess (`nn-...`) networks
 | racingchess | [racingchess-2d84b5d38001.nnue](https://drive.google.com/u/0/uc?id=1_bm2ZzDBWaCToXyrDhFDyAQ7xvXQPhZw&export=download) | +492 | 2022/04/12 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#racing-chess)
