@@ -88,7 +88,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | shogi  | [shogi-878ca61334a7.nnue](https://drive.google.com/u/0/uc?id=1RA0mstKWi_tH98DVdLGBamEdE8FXiSgB&export=download) | >+1000 | | Fabian Fichter |
 | shogun | [shogun-52c778c11e79.nnue](https://drive.google.com/u/0/uc?id=185Z5IY6qE3Mssolj1lKK0cvPR6HZEwXJ&export=download) | +609 | 2022/05/10 | Belzedar#8832 | Only compatible with Largeboards binary. |
 | shouse | [shouse-a9ca0fc73863.nnue](https://drive.google.com/u/0/uc?id=1tG1seU2zmLKIlF8IkcAdkejY7aQ_Iad4&export=download) | +372 | 2022/04/18 | Belzedar#8832 | Seirawan + Crazyhouse
-| sittuyin | [sittuyin-3c3ed74dbe54.nnue](https://drive.google.com/u/0/uc?id=1ddJCD22XqZhkz1VHdrxCy1_OTYYDWf0Y&export=download) | +86 | | Belzedar#8832 |
+| sittuyin | [sittuyin-04ade227fe43.nnue](https://drive.google.com/u/0/uc?id=1eDRLpEZ53kJnycfvNVqdr6KIrPpeBUO1&export=download) | +202 | 2022/09/29 | Belzedar#8832 |
 | sixthrank | [sixthrank-a4350d92b723.nnue](https://drive.google.com/u/0/uc?id=1Wb4hX4OxHlSbBXSCKL06YVMt2ODnI1lu&export=download) | +420 | 2022/04/19 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#sixth-rank-chess)
 | stardust | [stardust-54dc7419ec9e.nnue](https://drive.google.com/u/0/uc?id=1VFwp2OxmdGjgEJw2TrYLuDdzms7PP5Lb&export=download) | +460 | 2022/06/13 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#stardust)
 | synochess | [synochess-33c625f8ad3e.nnue](https://drive.google.com/u/0/uc?id=1yt6KEx3goaPm3W_OTaUjEPpgJXqIg0A4&export=download) | +166 | 2022/04/22 | Untitled_Entity#5718 | Only compatible with Largeboards binary. |
