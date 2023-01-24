@@ -25,7 +25,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | breakthrough  | [breakthrough-b0305d859ae9.nnue](https://drive.google.com/u/0/uc?id=1n78zlt3UqWcn-X9Av6-iW8Ld1AreaKqm&export=download) | +1522 | 2022/05/27 | Belzedar#8832 |
 | breakthrough6 | [breakthrough6-c20c60a05bfd.nnue](https://drive.google.com/u/0/uc?id=1i1yrvaEApCC_ymcOb8FWnXJeFf5uD4Uu&export=download) | +355 | 2022/04/24 | mtaktikos#8757 | [6x6 version of Breakthrough](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#6x6-breakthrough)
 | breakthrough7 | [breakthrough7-814165729d80.nnue](https://drive.google.com/u/0/uc?id=1zTFMBrM_zrZNBiGHdg7y3hBqA1s6QMN2&export=download) | +604 | 2022/04/24 | mtaktikos#8757 | [7x7 version of Breakthrough](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#7x7-breakthrough)
-| bughouse  | [bughouse-a53140c72ba2.nnue](https://drive.google.com/u/0/uc?id=1rWCM32j5GQ0xZS0Ofj0jnQCfeCQGBPKQ&export=download) | +338 | | Fabian Fichter |
+| bughouse  | [bughouse-cd8cceab93fe.nnue](https://drive.google.com/u/0/uc?id=1qZVSzm5G_KRc33YCqmsPM6Ayxo3CI4ME&export=download) | +403 | 2023/01/24 | Belzedar#8832 |
 | cambodian |  | |  | | Compatible with makruk networks
 | capablanca  | [capablanca-bb644ef32758.nnue](https://drive.google.com/u/0/uc?id=1FbTMVSE8MA_0hrTTcTm5edYXTH8PItHR&export=download) | +354 | 2022/05/10 | Belzedar#8832 | Also compatible to gothic, embassy, caparandom
 | capahouse | [capahouse-9410dee8f2a3.nnue](https://drive.google.com/u/0/uc?id=1xEHbRv1DBgIGDjQJKjWBb5ccw75Ynshv&export=download) | +100 | 2022/04/18 | mtaktikos#8757 | Capablanca + Crazyhouse
@@ -95,7 +95,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | threekings | [threekings-c429a67a6578.nnue](https://drive.google.com/u/0/uc?id=1ulE-FrtedYmTabwOHhGx60ag1UbmC6lm&export=download) | +536 | 2022/09/26 | Belzedar#8832 |
 | torishogi | [torishogi-436578ceef5b.nnue](https://drive.google.com/u/0/uc?id=1fMJi2IJqSpE4w3qnIdtE3bidBy4sfRc4&export=download) | +834 | 2022/08/08 | Belzedar#8832 |
 | twokings2 | [twokings2-7a85df6f13ff.nnue](https://drive.google.com/u/0/uc?id=1ES6d6zkOip--hjDqQxfvgX41W0CfS0Ay&export=download) | +244 | 2022/04/20 | Belzedar#8832 | [Custom defined variant](https://github.com/ianfab/Fairy-Stockfish/wiki/Variant-configuration#two-kings-2)
-| xiangqi  | [xiangqi-c425c4166a1e.nnue](https://drive.google.com/u/0/uc?id=1-4ZwGf1Vh802gH2TTSiLZzPXl98prCQ_&export=download) | +779 | 2022/08/08 | Vincentzyx#0477 | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/xiangqi-c425c4166a1e)
+| xiangqi  | [xiangqi-aa162e1771e5.nnue](https://drive.google.com/u/0/uc?id=1QvnOcxLejH7cPLngCxgPz4yhvd6S4LDL&export=download) | +889 | 2023/01/24 | Vincentzyx#0477 | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/xiangqi-aa162e1771e5)
 | xiangqihouse | [xiangqihouse-dc5b4560e41c.nnue](https://drive.google.com/u/0/uc?id=1DkyasRcxpt9D5kE8MH4JsZGUDmaS6s44&export=download) | +535 | 2022/06/13 | Belzedar#8832 | Xiangqi + Crazyhouse hybrid variant.
 
 When a variant is specified as compatible to networks of a different variant, such as cambodian->makruk, the NNUE network can simply be used with the current name, it does **not** need to be renamed. E.g., `makruk-....nnue` can be directly used for cambodian as well as makruk.
