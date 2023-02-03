@@ -54,6 +54,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | grand | [grand-9e13c7b0ed97.nnue](https://drive.google.com/u/0/uc?id=1Q84y9M93IQG3GUr-ibY8NGjJSEnpV3zy&export=download) | +390 | 2022/05/17 | Belzedar#8832 |
 | grandhouse | [grandhouse-35c216476fc5.nnue](https://drive.google.com/u/0/uc?id=1gxcRdtiUDUdBA0MPFZljlV43TO5eXdPD&export=download) | +360 | 2022/04/21 | Belzedar#8832 |
 | grasshopper | [grasshopper-2bb252371adf.nnue](https://drive.google.com/u/0/uc?id=1dE7NiNapQ8T3-D4kaak-LxqIjXUWRcaa&export=download) | +2574 | 2022/06/13 | Belzedar#8832 |
+| gustav3 | [gustav3-66e1afdd3bfc.nnue](https://drive.google.com/u/0/uc?id=1ByHVgVRGRUOln7ddHuesGqv-GiNdfHMr&export=download) | +408 | 2023/02/03 | Belzedar#8832 |
 | hoppelpoppel | [hoppelpoppel-b4f82c3d6e25.nnue](https://drive.google.com/u/0/uc?id=1k0rWMdzh4KL2jdrMcmkV7H4rgaFT-ggU&export=download) | +444 | 2022/08/05 | Belzedar#8832 |
 | horde  | [horde-28173ddccabe.nnue](https://drive.google.com/u/0/uc?id=16BQztGqFIS1n_dYtmdfFVE2EexF-KagX&export=download) | +490 | | Belzedar#8832 |
 | janggi  | [janggi-7fb17c3419dc.nnue](https://drive.google.com/u/0/uc?id=1mnfJdVKcEgbTYk9hfgoMBMIoePxv9LMs&export=download) | +858 | 2022/07/17 | Belzedar#8832 | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/janggi-7fb17c3419dc)
