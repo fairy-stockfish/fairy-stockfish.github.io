@@ -6,7 +6,7 @@ permalink: /custom-variants/
 
 Fairy-Stockfish already has many variants built in but can be extended by an even much larger variety of custom user-defined variants using a variant configuration file.
 
-User-defined variants can be added via an INI-style configuration file and be loaded at runtime without needing to recompile the program. See the [variants.ini](https://github.com/ianfab/Fairy-Stockfish/blob/master/src/variants.ini) in the repository for documentation and examples of variant configuration.
+User-defined variants can be added via an INI-style configuration file and be loaded at runtime without needing to recompile the program. See the [variants.ini](https://github.com/fairy-stockfish/Fairy-Stockfish/blob/master/src/variants.ini) in the repository for documentation and examples of variant configuration.
 
 # Example
 

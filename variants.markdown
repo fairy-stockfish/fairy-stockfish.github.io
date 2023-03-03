@@ -8,7 +8,7 @@ Fairy-Stockfish has a large variety of variants already built in and can be exte
 
 ### Regional and historical games
 - [Xiangqi](https://en.wikipedia.org/wiki/Xiangqi), [Manchu](https://en.wikipedia.org/wiki/Manchu_chess), [Minixiangqi](http://mlwi.magix.net/bg/minixiangqi.htm), [Supply chess](https://en.wikipedia.org/wiki/Xiangqi#Variations)
-- [Shogi](https://en.wikipedia.org/wiki/Shogi), [Shogi variants](https://github.com/ianfab/Fairy-Stockfish#shogi-variants)
+- [Shogi](https://en.wikipedia.org/wiki/Shogi), [Shogi variants](https://github.com/fairy-stockfish/Fairy-Stockfish#shogi-variants)
 - [Janggi](https://en.wikipedia.org/wiki/Janggi)
 - [Makruk](https://en.wikipedia.org/wiki/Makruk), [ASEAN](http://hgm.nubati.net/rules/ASEAN.html), Makpong, Ai-Wok
 - [Ouk Chatrang](https://en.wikipedia.org/wiki/Makruk#Cambodian_chess), [Kar Ouk](https://en.wikipedia.org/wiki/Makruk#Cambodian_chess)

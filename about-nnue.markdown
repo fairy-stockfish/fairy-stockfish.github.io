@@ -18,7 +18,7 @@ In most variants NNUE is several hundred Elo stronger than the handcrafted evalu
 In Fairy-Stockfish NNUE evaluation parameters can either be loaded at runtime from a file or included into the binary at compile-time. There is no functional difference between the two ways of loading them, it is just about convenience and file size. In order to use NNUE evaluation for chess variants in Fairy-Stockfish, you can either download a release with built-in NNUE, see the [download page](/download/), if you are very specifically interested in Xiangqi, Janggi, or Makruk, or follow the below steps to load NNUE networks at runtime for arbitrary variants:
 * Download the NNUE evaluation file you want to use from the [NNUE download](/nnue/#current-best-nnue-networks).
 * [Download Fairy-Stockfish](/download/).
-* Set the path of the downloaded NNUE file in the `EvalFile` parameter in your GUI. Make sure that the name of the NNUE file starts with the name of the variant, as the file name is used to detect whether an NNUE file should be used for a given variant. For further details, see the [wiki](https://github.com/ianfab/Fairy-Stockfish/wiki/Settings#evalfile).
+* Set the path of the downloaded NNUE file in the `EvalFile` parameter in your GUI. Make sure that the name of the NNUE file starts with the name of the variant, as the file name is used to detect whether an NNUE file should be used for a given variant. For further details, see the [wiki](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Settings#evalfile).
 * When you select a variant for which an NNUE file was defined in the `EvalFile`, it will start using NNUE automatically.
 
 ## How is it trained?

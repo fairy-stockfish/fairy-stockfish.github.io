@@ -13,4 +13,4 @@ This website is deployed using [Github Pages](https://pages.github.com/) and the
 ## About the license
 Fairy-Stockfish is free and open source, and it is distributed under the GNU General Public License version 3 (GPLv3). This means that you can modify and redistribute the program and source code. However, whenever you distribute Fairy-Stockfish, you **must** make your source code available. Any changes to the source code must also be licensed under the GPL.
 
-See the [license](https://github.com/ianfab/Fairy-Stockfish/blob/master/Copying.txt) for more details.
+See the [license](https://github.com/fairy-stockfish/Fairy-Stockfish/blob/master/Copying.txt) for more details.

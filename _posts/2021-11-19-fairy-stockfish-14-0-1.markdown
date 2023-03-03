@@ -3,7 +3,7 @@ layout: post
 title:  "Fairy-Stockfish 14.0.1 XQ"
 categories: release
 ---
-A new version of Fairy-Stockfish is available, see the [release notes](https://github.com/ianfab/Fairy-Stockfish/releases/tag/fairy_sf_14_0_1).
+A new version of Fairy-Stockfish is available, see the [release notes](https://github.com/fairy-stockfish/Fairy-Stockfish/releases/tag/fairy_sf_14_0_1).
 
 This release is specifically for providing built-in [NNUE](https://en.wikipedia.org/wiki/Efficiently_updatable_neural_network) networks for Xiangqi and Janggi, so that the NNUE evaluation can be used without the need for any additional downloads or configuration. This release of course still supports all other variants, but for those you can also use the smaller standard releases without built-in NNUE.
 
@@ -38,5 +38,5 @@ Total: 200 W: 167 L: 28 D: 5
 ### Files of the release
 * The `.nnue` files do **not** need to be downloaded. They are only included in the release so that the build can be reproduced from source if desired.
 * `.exe` are Windows executables, the files without extensions are Linux binaries.
-* Use `bmi2` versions for best performance on modern hardware, or [fairy-stockfish-largeboard_x86-64.exe](https://github.com/ianfab/Fairy-Stockfish/releases/latest/download/fairy-stockfish-largeboard_x86-64.exe) for best compatibility.
+* Use `bmi2` versions for best performance on modern hardware, or [fairy-stockfish-largeboard_x86-64.exe](https://github.com/fairy-stockfish/Fairy-Stockfish/releases/latest/download/fairy-stockfish-largeboard_x86-64.exe) for best compatibility.
 * This release does not contain non-largeboard binaries, since they would not support Xiangqi and Janggi.

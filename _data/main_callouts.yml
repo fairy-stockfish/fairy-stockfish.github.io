@@ -8,7 +8,7 @@ items:
     description: >
       Fairy-Stockfish is published under the GPLv3 license. Its code can be changed and shared using the same license.
     call_to_action_name: Code on GitHub
-    call_to_action_link: https://github.com/ianfab/Fairy-Stockfish
+    call_to_action_link: https://github.com/fairy-stockfish/Fairy-Stockfish
   - title: Customizable
     subtitle: Support for user-defined variants
     icon: fa-wrench

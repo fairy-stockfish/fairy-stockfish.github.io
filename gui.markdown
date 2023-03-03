@@ -26,7 +26,7 @@ Engines can be added via `Tools`>`Settings`. Select the `Engines` tab, click on 
 Fairy-Stockfish also supports the CECP/XBoard protocol, so it can easily be used in [XBoard/WinBoard](http://hgm.nubati.net). WinBoard/XBoard is the most feature rich GUI in this list, but a bit older and less stable. On Windows, it is recommended to use an [up-to-date WinBoard version](http://hgm.nubati.net/WinBoard-AA.zip).
 
 ### Setup steps on Windows
-1. Download the Fairy-Stockfish executable from the [latest release](https://github.com/ianfab/Fairy-Stockfish/releases).
+1. Download the Fairy-Stockfish executable from the [latest release](https://github.com/fairy-stockfish/Fairy-Stockfish/releases).
 2. Download [WinBoard](http://hgm.nubati.net/WinBoard-AA.zip) and extract the zip archive.
 3. Open the Winboard folder and double click the winboard.exe.
 4. Click on `Engines`>`Edit Engine List...`
@@ -39,7 +39,7 @@ Fairy-Stockfish also supports the CECP/XBoard protocol, so it can easily be used
 * You can select other variants via `File`>`New Variant...`, or if the variant you are looking for is not in the list (as not all supported variants are displayed in the list) then you can enforce the variant by changing the default variant in the engine command from step 5 and redoing step 6. If you do this frequently, you can also copy&paste the entry in the variant list and create multiple entries for your favorite variants.
 
 ### Setup steps on Linux
-See this guide to [compile XBoard on Linux](https://github.com/ianfab/Fairy-Stockfish/wiki/Setting-up-Fairy-Stockfish-on-FICS#linux). You can skip the `--enable-zippy` flag if you do not intend to use XBoard to run an engine on ICS/FICS.
+See this guide to [compile XBoard on Linux](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Setting-up-Fairy-Stockfish-on-FICS#linux). You can skip the `--enable-zippy` flag if you do not intend to use XBoard to run an engine on ICS/FICS.
 
 ## Xiangqi GUIs (UCCI/UCI-compatible)
 Fairy-Stockfish can be used in Xiangqi GUIs by adding it as a UCCI or UCI engine. In case of problems make sure that you downloaded the large-board version (`fairy-stockfish-largeboard...`), and that you are using a recent version, at least Fairy-Stockfish 13.
