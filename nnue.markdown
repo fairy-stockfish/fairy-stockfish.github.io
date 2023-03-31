@@ -95,6 +95,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | sittuyin | [sittuyin-04ade227fe43.nnue](https://drive.google.com/u/0/uc?id=1eDRLpEZ53kJnycfvNVqdr6KIrPpeBUO1&export=download) | +202 | 2022/09/29 | Belzedar#8832 |
 | sixthrank | [sixthrank-a4350d92b723.nnue](https://drive.google.com/u/0/uc?id=1Wb4hX4OxHlSbBXSCKL06YVMt2ODnI1lu&export=download) | +420 | 2022/04/19 | Belzedar#8832 | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#sixth-rank-chess)
 | snailtrail  | [snailtrail-bab057618363.nnue](https://drive.google.com/u/0/uc?id=1C3MdAvvn-5WxuJbDd0N6m7xjhnLYpoyp&export=download) | +445 | 2023/02/03 | Mtaktikos#8757 & Belzedar#8832 |
+| spartan  | [spartan-9dc484a393db.nnue](https://drive.google.com/u/0/uc?id=1jgLPLnW0-reBFmS2oZJXTh-3loYTMLsd&export=download) | +1266 | 2023/03/31 | Belzedar#8832 |
 | stardust | [stardust-54dc7419ec9e.nnue](https://drive.google.com/u/0/uc?id=1VFwp2OxmdGjgEJw2TrYLuDdzms7PP5Lb&export=download) | +460 | 2022/06/13 | Belzedar#8832 | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#stardust)
 | synochess | [synochess-33c625f8ad3e.nnue](https://drive.google.com/u/0/uc?id=1yt6KEx3goaPm3W_OTaUjEPpgJXqIg0A4&export=download) | +166 | 2022/04/22 | Untitled_Entity#5718 | Only compatible with Largeboards binary. |
 | threekings | [threekings-c429a67a6578.nnue](https://drive.google.com/u/0/uc?id=1ulE-FrtedYmTabwOHhGx60ag1UbmC6lm&export=download) | +536 | 2022/09/26 | Belzedar#8832 |
