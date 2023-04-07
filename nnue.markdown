@@ -82,6 +82,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | omicron | [omicron-01e515951a2d.nnue](https://drive.google.com/u/0/uc?id=15jyKkfyyCzedwc0qZTjeJgdSiGHiId9Z&export=download) | +338 | 2023/02/03 | Belzedar#8832 |
 | orda | [orda-ac0af819f3a3.nnue](https://drive.google.com/u/0/uc?id=1jqvVVfxLBklECx14N6aLPnMVf5CZ8iXI&export=download) | +815 | 2022/09/23 | Belzedar#8832 |
 | ordamirror | [ordamirror-b432a42e3738.nnue](https://drive.google.com/u/0/uc?id=1Fn1D5bUvgig0kj3xN_T20xKA9aauKQQ0&export=download) | +473 | | Belzedar#8832 |
+| pawnsideways | [pawnsideways-68b37e5c25b0.nnue](https://drive.google.com/u/0/uc?id=1AvP9VBjZbU02AEcOCqeAy3hJ-Ye3jCt3&export=download) | +1021 | 2023/04/07 | Belzedar#8832 |
 | placement |  | | | | Compatible with chess (`nn-...`) networks
 | racingchess | [racingchess-2d84b5d38001.nnue](https://drive.google.com/u/0/uc?id=1_bm2ZzDBWaCToXyrDhFDyAQ7xvXQPhZw&export=download) | +492 | 2022/04/12 | Belzedar#8832 | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#racing-chess)
 | racingkings  | [racingkings-636b95f085e3.nnue](https://drive.google.com/u/0/uc?id=1Tiq8FqSu7eiekE2iaWQzSdJPg-mhvLzJ&export=download) | +374 | 2022/06/13 | Belzedar#8832 |
@@ -96,14 +97,14 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | sittuyin | [sittuyin-04ade227fe43.nnue](https://drive.google.com/u/0/uc?id=1eDRLpEZ53kJnycfvNVqdr6KIrPpeBUO1&export=download) | +202 | 2022/09/29 | Belzedar#8832 |
 | sixthrank | [sixthrank-a4350d92b723.nnue](https://drive.google.com/u/0/uc?id=1Wb4hX4OxHlSbBXSCKL06YVMt2ODnI1lu&export=download) | +420 | 2022/04/19 | Belzedar#8832 | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#sixth-rank-chess)
 | snailtrail  | [snailtrail-bab057618363.nnue](https://drive.google.com/u/0/uc?id=1C3MdAvvn-5WxuJbDd0N6m7xjhnLYpoyp&export=download) | +445 | 2023/02/03 | Mtaktikos#8757 & Belzedar#8832 |
-| spartan  | [spartan-9dc484a393db.nnue](https://drive.google.com/u/0/uc?id=1jgLPLnW0-reBFmS2oZJXTh-3loYTMLsd&export=download) | +1266 | 2023/03/31 | Belzedar#8832 |
+| spartan | [spartan-9dc484a393db.nnue](https://drive.google.com/u/0/uc?id=1jgLPLnW0-reBFmS2oZJXTh-3loYTMLsd&export=download) | +1266 | 2023/03/31 | Belzedar#8832 |
 | stardust | [stardust-54dc7419ec9e.nnue](https://drive.google.com/u/0/uc?id=1VFwp2OxmdGjgEJw2TrYLuDdzms7PP5Lb&export=download) | +460 | 2022/06/13 | Belzedar#8832 | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#stardust)
 | synochess | [synochess-33c625f8ad3e.nnue](https://drive.google.com/u/0/uc?id=1yt6KEx3goaPm3W_OTaUjEPpgJXqIg0A4&export=download) | +166 | 2022/04/22 | Untitled_Entity#5718 | Only compatible with Largeboards binary. |
 | threekings | [threekings-c429a67a6578.nnue](https://drive.google.com/u/0/uc?id=1ulE-FrtedYmTabwOHhGx60ag1UbmC6lm&export=download) | +536 | 2022/09/26 | Belzedar#8832 |
 | torishogi | [torishogi-436578ceef5b.nnue](https://drive.google.com/u/0/uc?id=1fMJi2IJqSpE4w3qnIdtE3bidBy4sfRc4&export=download) | +834 | 2022/08/08 | Belzedar#8832 |
 | torpedo | [torpedo-19329a439298.nnue](https://drive.google.com/u/0/uc?id=1RThxYBhsFEfs3IytP0nKnwCBOweaImSy&export=download) | +277 | 2023/04/04 | Belzedar#8832 |
 | twokings2 | [twokings2-7a85df6f13ff.nnue](https://drive.google.com/u/0/uc?id=1ES6d6zkOip--hjDqQxfvgX41W0CfS0Ay&export=download) | +244 | 2022/04/20 | Belzedar#8832 | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#two-kings-2)
-| xiangqi  | [xiangqi-aa162e1771e5.nnue](https://drive.google.com/u/0/uc?id=1QvnOcxLejH7cPLngCxgPz4yhvd6S4LDL&export=download) | +889 | 2023/01/24 | Vincentzyx#0477 | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/xiangqi-aa162e1771e5)
+| xiangqi | [xiangqi-aa162e1771e5.nnue](https://drive.google.com/u/0/uc?id=1QvnOcxLejH7cPLngCxgPz4yhvd6S4LDL&export=download) | +889 | 2023/01/24 | Vincentzyx#0477 | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/xiangqi-aa162e1771e5)
 | xiangqihouse | [xiangqihouse-dc5b4560e41c.nnue](https://drive.google.com/u/0/uc?id=1DkyasRcxpt9D5kE8MH4JsZGUDmaS6s44&export=download) | +535 | 2022/06/13 | Belzedar#8832 | Xiangqi + Crazyhouse hybrid variant.
 
 When a variant is specified as compatible to networks of a different variant, such as cambodian->makruk, the NNUE network can simply be used with the current name, it does **not** need to be renamed. E.g., `makruk-....nnue` can be directly used for cambodian as well as makruk.
