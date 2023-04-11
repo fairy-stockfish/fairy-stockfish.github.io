@@ -4,10 +4,12 @@ title: Graphical User Interfaces
 permalink: /gui/
 ---
 
-For offline usage of Fairy-Stockfish you need to [download Fairy-Stockfish](/download/) as well as a compatible graphical user interface (GUI). You can use one of the GUIs listed below or any other chess variant GUI that is compatible with the supported protocols (UCI, UCCI, USI, UCI-cyclone, CECP/xboard). For documention about protocols used for chess variants, see the [chess variant standards page](https://fairy-stockfish.github.io/chess-variant-standards/).
+For offline usage of Fairy-Stockfish you need to [download Fairy-Stockfish](/download/) as well as a compatible graphical user interface (GUI). If you want to first try it online out without any downloads, you can have a look at the [websites using Fairy-Stockfish](/online/).
+
+You can use one of the GUIs listed below or any other chess variant GUI that is compatible with the supported protocols (UCI, UCCI, USI, UCI-cyclone, CECP/xboard). For documention about protocols used for chess variants, see the [chess variant standards page](/chess-variant-standards/).
 
 ## Overview
-There are several chess variant GUIs with different strengths and weaknesses, so please check which one best suits your use case. If you want to do analysis for common chess variants, [LiGround](#liground) and [PyChess](#pychess) should be good options for easy to use GUIs. If you are more interested in running engine matches, [cutechess](#cutechess) is a very good choice. For custom variants and the most feature-rich GUI you can use [WinBoard/XBoard](#xboardwinboard), which however is less stable than the other options. If none of these GUIs supports the variant you want to use, then you can resort to [FairyFishGUI](#fairyfishgui), which by design supports all variants Fairy-Stockfish can support but has a very minimalistic interface.
+There are several chess variant GUIs with different strengths and weaknesses, so please check which one best suits your use case. If you want to do analysis for common chess variants, [LiGround](#liground) and [PyChess](#pychess) should be good options for easy to use GUIs. If you are more interested in running engine matches, [cutechess](#cutechess) is a very good choice. For custom variants and the most feature-rich GUI you can use [WinBoard/XBoard](#xboardwinboard), which however is less stable than the other options. If none of these GUIs supports the variant you want to use, then you can resort to [FairyFishGUI](#fairyfishgui), which by design supports all variants Fairy-Stockfish can support but has a very minimalistic interface. 
 
 ## LiGround
 [LiGround](https://ml-research.github.io/liground.github.io/) is a modern cross-platform chess variant GUI. It supports all lichess variants as well as all major regional variants (Xiangqi, Shogi, Janggi, Makruk). Precompiled versions for each OS can be downloaded from the [releases](https://github.com/ml-research/liground/releases).
