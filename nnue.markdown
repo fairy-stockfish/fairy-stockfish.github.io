@@ -83,6 +83,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | omicron | [omicron-01e515951a2d.nnue](https://drive.google.com/u/0/uc?id=15jyKkfyyCzedwc0qZTjeJgdSiGHiId9Z&export=download) | +338 | 2023/02/03 | Belzedar#8832 |
 | orda | [orda-ac0af819f3a3.nnue](https://drive.google.com/u/0/uc?id=1jqvVVfxLBklECx14N6aLPnMVf5CZ8iXI&export=download) | +815 | 2022/09/23 | Belzedar#8832 |
 | ordamirror | [ordamirror-b432a42e3738.nnue](https://drive.google.com/u/0/uc?id=1Fn1D5bUvgig0kj3xN_T20xKA9aauKQQ0&export=download) | +473 | | Belzedar#8832 |
+| pawnback | [pawnback-856713dd34cc.nnue](https://drive.google.com/u/0/uc?id=1y-S_us8RRxBf09I_NB5ErutZ5IdXGQ6o&export=download) | +637 | 2023/04/14 | Belzedar#8832 |
 | pawnsideways | [pawnsideways-68b37e5c25b0.nnue](https://drive.google.com/u/0/uc?id=1AvP9VBjZbU02AEcOCqeAy3hJ-Ye3jCt3&export=download) | +1021 | 2023/04/07 | Belzedar#8832 |
 | placement |  | | | | Compatible with chess (`nn-...`) networks
 | racingchess | [racingchess-2d84b5d38001.nnue](https://drive.google.com/u/0/uc?id=1_bm2ZzDBWaCToXyrDhFDyAQ7xvXQPhZw&export=download) | +492 | 2022/04/12 | Belzedar#8832 | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#racing-chess)
