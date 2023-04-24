@@ -40,7 +40,7 @@ defaults:
       hero_height: is-fullwidth
 
 # Build settings
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: ianfab/bulma-clean-theme
 plugins:
   - jekyll-feed
 
