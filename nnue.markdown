@@ -26,6 +26,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | breakthrough  | [breakthrough-b0305d859ae9.nnue](https://drive.google.com/u/0/uc?id=1n78zlt3UqWcn-X9Av6-iW8Ld1AreaKqm&export=download) | +1522 | 2022/05/27 | Belzedar#8832 |
 | breakthrough6 | [breakthrough6-c20c60a05bfd.nnue](https://drive.google.com/u/0/uc?id=1i1yrvaEApCC_ymcOb8FWnXJeFf5uD4Uu&export=download) | +355 | 2022/04/24 | mtaktikos#8757 | [6x6 version of Breakthrough](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#6x6-breakthrough)
 | breakthrough7 | [breakthrough7-814165729d80.nnue](https://drive.google.com/u/0/uc?id=1zTFMBrM_zrZNBiGHdg7y3hBqA1s6QMN2&export=download) | +604 | 2022/04/24 | mtaktikos#8757 | [7x7 version of Breakthrough](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#7x7-breakthrough)
+| buffalo | [buffalo-cfb43daa99e2.nnue](https://drive.google.com/u/0/uc?id=1nPmdTyC5Qqqm0mnaKMitu-yNeAcxeOfd&export=download) | +493 | 2023/05/04 | Belzedar#8832 |
 | bughouse  | [bughouse-cd8cceab93fe.nnue](https://drive.google.com/u/0/uc?id=1qZVSzm5G_KRc33YCqmsPM6Ayxo3CI4ME&export=download) | +403 | 2023/01/24 | Belzedar#8832 |
 | cambodian |  | |  | | Compatible with makruk networks
 | capablanca  | [capablanca-bb644ef32758.nnue](https://drive.google.com/u/0/uc?id=1FbTMVSE8MA_0hrTTcTm5edYXTH8PItHR&export=download) | +354 | 2022/05/10 | Belzedar#8832 | Also compatible to gothic, embassy, caparandom
