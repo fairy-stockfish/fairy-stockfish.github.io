@@ -38,6 +38,8 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       hero_height: is-fullwidth
+      hero_image: /assets/images/blue_board.svg
+      hero_image_fg: /assets/images/fairyfish2_nobg_hq_small.png
 
 # Build settings
 remote_theme: ianfab/bulma-clean-theme
