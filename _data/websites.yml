@@ -1,0 +1,49 @@
+intro: |-
+  Fairy-Stockfish is used on many chess variant websites, most notably on [lichess.org](https://lichess.org/) and [pychess.org](https://www.pychess.org/).
+  If you want to experiment with custom variants, [Fairyground](https://fairyground.vercel.app/) might be a good place to start.
+
+
+items:
+  - title: Fairyground
+    subtitle: Fairy-Stockfish playground
+    description: |-
+      Fairyground serves as a playground to try out Fairy-Stockfish online with custom variants, enabling game play and interactive analysis.
+    link: https://fairyground.vercel.app/
+    link_text: Open fairyground
+    tags: Custom variants
+    github: ianfab/fairyground
+  - title: Lichess
+    subtitle: Chess server
+    description: |-
+      Lichess uses Fairy-Stockfish for game play and server-side analysis.
+    link: https://www.lichess.org
+    link_text: Open lichess
+    tags: Chess,Crazyhouse,Atomic,Antichess,Three-Check,King of the Hill,Racing Kings
+    github: lichess-org/lila
+  - title: Pychess
+    subtitle: Chess variant server
+    description: |-
+      Pychess uses Fairy-Stockfish for game play, server-side analysis, as well as local analysis.
+    link: https://www.pychess.org
+    link_text: Open pychess
+    tags: Chess,Xiangqi,Shogi,Janggi,Makruk,Capablanca,S-Chess,Duck
+    github: gbtami/pychess-variants
+  - title: Lishogi
+    description: |-
+      Lishogi uses Fairy-Stockfish for game play and server-side analysis, mainly for Minishogi.
+    link: https://www.lishogi.org
+    link_text: Open lishogi
+    tags: Shogi,Minishogi
+    github: WandererXII/lishogi
+  - title: Playstrategy
+    description: |-
+      Playstrategy uses Fairy-Stockfish for game play and server-side analysis in various games.
+    link: https://www.playstrategy.org
+    link_text: Open playstrategy
+    tags: Chess,Shogi,Xiangqi
+  - title: Xiangqi.com
+    description: |-
+      Xiangqi.com allows to play against Fairy-Stockfish.
+    link: https://www.xiangqi.com
+    link_text: Open xiangqi.com
+    tags: Xiangqi
