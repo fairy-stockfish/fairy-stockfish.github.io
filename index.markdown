@@ -6,6 +6,10 @@ show_sidebar: true
 hero_height: is-medium
 hero_link: /download/
 hero_link_text: Download
+hero_link2: /online/
+hero_link2_text: Online
+hero_image: assets/images/blue_board.svg
+hero_image_fg: assets/images/fairyfish2_nobg_hq_small.png
 callouts: main_callouts
 ---
 
