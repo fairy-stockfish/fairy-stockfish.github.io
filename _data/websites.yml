@@ -41,6 +41,7 @@ items:
     link: https://www.playstrategy.org
     link_text: Open playstrategy
     tags: Chess,Shogi,Xiangqi
+    github: Mind-Sports-Games/lila
   - title: Xiangqi.com
     description: |-
       Xiangqi.com allows to play against Fairy-Stockfish.

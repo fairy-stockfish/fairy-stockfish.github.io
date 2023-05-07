@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Graphical User Interfaces
+toc: true
 permalink: /gui/
 ---
 

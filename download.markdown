@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Download
+toc: true
 permalink: /download/
 ---
 Below is an overview of the latest release binaries for Fairy-Stockfish. You should select the download according to three criteria:
