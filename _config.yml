@@ -43,7 +43,7 @@ defaults:
       hero_image_fg: /assets/images/fairyfish2_nobg_hq_small.png
 
 # Build settings
-remote_theme: ianfab/bulma-clean-theme
+remote_theme: ianfab/bulma-simple-theme
 plugins:
   - jekyll-feed
 
