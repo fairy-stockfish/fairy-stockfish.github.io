@@ -97,7 +97,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | shatar | [shatar-9798d8353f1e.nnue](https://drive.google.com/u/0/uc?id=10DF_Rj8DcGkYjtylbZ4VnHwj8slth0CU&export=download) | +228 | 2022/04/20 | Belzedar#8832 |
 | shatranj  | [shatranj-27f6cf35e3fc.nnue](https://drive.google.com/u/0/uc?id=15LZixqirndspeF9p8HCqIv5cLHf0T0Kx&export=download) | +222 | 2022/04/24 | Belzedar#8832 |
 | shinobi | [shinobi-5136c71b83bf.nnue](https://drive.google.com/u/0/uc?id=1Gvwkxs_aMP57RDYndxtwNpytyf4xHEAi&export=download) | +790 | 2022/05/10 | Belzedar#8832 | Only compatible with Largeboards binary. |
-| shinobi+ | [shinobiplus-0621c2ca30a5.nnue](https://drive.google.com/u/0/uc?id=1cN-1IHRwmpp5CYU2pfhetBi78wB0A4hL&export=download) | +575 | 2023/06/07 | GemOfLife#3419 | Only compatible with Largeboards binary. |
+| shinobi+ | [shinobiplus-0621c2ca30a5.nnue](https://drive.google.com/u/0/uc?id=1L5gwtoWyJVJDSRLlqhqxxEmUD2JgqVCb&export=download) | +696 | 2023/06/07 | GemOfLife#3419 | Only compatible with Largeboards binary. |
 | shogi  | [shogi-878ca61334a7.nnue](https://drive.google.com/u/0/uc?id=1RA0mstKWi_tH98DVdLGBamEdE8FXiSgB&export=download) | >+1000 | | Fabian Fichter |
 | shogun | [shogun-52c778c11e79.nnue](https://drive.google.com/u/0/uc?id=185Z5IY6qE3Mssolj1lKK0cvPR6HZEwXJ&export=download) | +609 | 2022/05/10 | Belzedar#8832 | Only compatible with Largeboards binary. |
 | shouse | [shouse-a9ca0fc73863.nnue](https://drive.google.com/u/0/uc?id=1tG1seU2zmLKIlF8IkcAdkejY7aQ_Iad4&export=download) | +372 | 2022/04/18 | Belzedar#8832 | Seirawan + Crazyhouse
