@@ -13,7 +13,7 @@ User-defined variants can be added via an INI-style configuration file and be lo
 Let's say we want to replace the bishops in chess with knight+bishop compound pieces, also referred to as archbishops. The configuration could look as follows:
 
 ```
-# we name our variant "testvariant" and let it inherit all the rules from chess
+# we name our variant "ourtestvariant" and let it inherit all the rules from "chess"
 [ourtestvariant:chess]
 # now we add the archbishop and assign it "a" as an abbreviation
 archbishop = a
