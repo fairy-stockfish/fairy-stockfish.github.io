@@ -20,6 +20,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | antichess | [antichess-689c016df8e0.nnue](https://drive.google.com/u/0/uc?id=1SBLSmQmfrsxFHa3ntAhfYXyL3CoVSSL2&export=download) | +80 | 2022/08/24 | belzedar_ in discord |
 | asean | [asean-47ebb2f6be7b.nnue](https://drive.google.com/u/0/uc?id=123GKcbRkAEdOSi6q6tg-qYTuv1dIwEue&export=download) | +505 | 2022/09/12 | belzedar_ in discord |
 | ataxx | [ataxx-e631fe1b1b6d.nnue](https://drive.google.com/u/0/uc?id=1RxG06786uZYuY7wCQ6AX5xM4M8SS90p9&export=download) | +202 | 2022/05/30 | belzedar_ in discord |
+| atomar  | [atomar-31ef8e2fb4b6.nnue](https://drive.google.com/u/0/uc?id=1ieWTXzdOYHsBWPVdl6_ZFwhsieLyhYgV&export=download) | +407 | 2023/08/28 | belzedar_ in discord |
 | atomic  | [atomic-2cf13ff256cc.nnue](https://drive.google.com/u/0/uc?id=1bC7T3iDft8Kbuxlu3Vm2fERxk7cOSoDy&export=download) | +719 | 2022/08/24 | belzedar_ in discord |
 | atomicduck  | [atomicduck-8f6b67399559.nnue](https://drive.google.com/u/0/uc?id=1NgBD_Q8MFSWFaV-7pSNtUJ3Q1lCmFzcq&export=download) | +330 | 2023/08/17 | belzedar_ in discord |
 | backrank | [backrank-db95f88c50c9.nnue](https://drive.google.com/u/0/uc?id=1xF02gcBh7OJLiAy4apUXdNfgmswsl_7H&export=download) | +1165 | 2022/05/03 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#backrank)
