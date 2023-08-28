@@ -57,7 +57,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | flipello | [flipello-aed1bd5d741b.nnue](https://drive.google.com/u/0/uc?id=1elo97JNczmeQSyK_YMxw3xmOD9_fWP-C&export=download) | +354 | 2022/06/10 | belzedar_ in discord |
 | gorogoroplus | [gorogoroplus-7bc64726c1c1.nnue](https://drive.google.com/u/0/uc?id=1-k87I3fKHrpfbZwEgqDzYVlZivL4emcE&export=download) | +230 | 2022/04/15 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#goro-goro-plus)
 | grand | [grand-9e13c7b0ed97.nnue](https://drive.google.com/u/0/uc?id=1Q84y9M93IQG3GUr-ibY8NGjJSEnpV3zy&export=download) | +390 | 2022/05/17 | belzedar_ in discord |
-| grandhouse | [grandhouse-35c216476fc5.nnue](https://drive.google.com/u/0/uc?id=1gxcRdtiUDUdBA0MPFZljlV43TO5eXdPD&export=download) | +360 | 2022/04/21 | belzedar_ in discord |
+| grandhouse | [grandhouse-dd70cad78bc1.nnue](https://drive.google.com/u/0/uc?id=1f9_y4atKvoyj18ofsmutN6bF3uuyEAjq&export=download) | +760 | 2023/08/28 | belzedar_ in discord |
 | grasshopper | [grasshopper-2bb252371adf.nnue](https://drive.google.com/u/0/uc?id=1dE7NiNapQ8T3-D4kaak-LxqIjXUWRcaa&export=download) | +2574 | 2022/06/13 | belzedar_ in discord |
 | gustav3 | [gustav3-66e1afdd3bfc.nnue](https://drive.google.com/u/0/uc?id=1ByHVgVRGRUOln7ddHuesGqv-GiNdfHMr&export=download) | +408 | 2023/02/03 | belzedar_ in discord |
 | hoppelpoppel | [hoppelpoppel-b4f82c3d6e25.nnue](https://drive.google.com/u/0/uc?id=1k0rWMdzh4KL2jdrMcmkV7H4rgaFT-ggU&export=download) | +444 | 2022/08/05 | belzedar_ in discord |
