@@ -116,6 +116,6 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | twokings2 | [twokings2-7a85df6f13ff.nnue](https://drive.google.com/u/0/uc?id=1ES6d6zkOip--hjDqQxfvgX41W0CfS0Ay&export=download) | +244 | 2022/04/20 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#two-kings-2)
 | wolf | [wolf-b80c9ac0422f.nnue](https://drive.google.com/u/0/uc?id=1fL6lL45duRBGXTR4yFmIx_qvun0tSXn7&export=download) | +1827 | 2023/04/28 | belzedar_ in discord |
 | xiangqi | [xiangqi-aa162e1771e5.nnue](https://drive.google.com/u/0/uc?id=1QvnOcxLejH7cPLngCxgPz4yhvd6S4LDL&export=download) | +889 | 2023/01/24 | Vincentzyx#0477 | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/xiangqi-aa162e1771e5)
-| xiangqihouse | [xiangqihouse-dc5b4560e41c.nnue](https://drive.google.com/u/0/uc?id=1DkyasRcxpt9D5kE8MH4JsZGUDmaS6s44&export=download) | +535 | 2022/06/13 | belzedar_ in discord | Xiangqi + Crazyhouse hybrid variant.
+| xiangqihouse | [xiangqihouse-dc5b4560e41c.nnue](https://drive.google.com/u/0/uc?id=1DkyasRcxpt9D5kE8MH4JsZGUDmaS6s44&export=download) | +535 | 2022/06/13 | belzedar_ in discord | Xiangqi + Crazyhouse hybrid variant
 
 When a variant is specified as compatible to networks of a different variant, such as cambodian->makruk, the NNUE network can simply be used with the current name, it does **not** need to be renamed. E.g., `makruk-....nnue` can be directly used for cambodian as well as makruk.
