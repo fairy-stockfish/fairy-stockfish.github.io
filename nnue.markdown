@@ -86,6 +86,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | mounted | [mounted-7a5dfe301eaf.nnue](https://drive.google.com/u/0/uc?id=1xjLRsSP0io5yaXS8yY9oANML7o4wA-Ut&export=download) | +297 | 2022/04/15 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#mounted)
 | newzealand | [newzealand-464a42989876.nnue](https://drive.google.com/u/0/uc?id=11TC1irKBewo25nbqpX2o0tdgQuyrWjMx&export=download) | +359 | 2022/09/20 | belzedar_ in discord |
 | nightrider | [nightrider-5086efb80097.nnue](https://drive.google.com/u/0/uc?id=1YEEuEjhzCBEXMw0NPgNxWak7q_35OKSZ&export=download) | +420 | 2022/06/26 | belzedar_ in discord |
+| nuclear | [nuclear-1c14657d0d4f.nnue](https://drive.google.com/u/0/uc?id=1SxWxugvlOiw_Fz2gQ-XywGp6QO3zXTpw&export=download) | +156 | 2023/09/04 | belzedar_ in discord |
 | omicron | [omicron-01e515951a2d.nnue](https://drive.google.com/u/0/uc?id=15jyKkfyyCzedwc0qZTjeJgdSiGHiId9Z&export=download) | +338 | 2023/02/03 | belzedar_ in discord |
 | orda | [orda-ac0af819f3a3.nnue](https://drive.google.com/u/0/uc?id=1jqvVVfxLBklECx14N6aLPnMVf5CZ8iXI&export=download) | +815 | 2022/09/23 | belzedar_ in discord |
 | ordamirror | [ordamirror-b432a42e3738.nnue](https://drive.google.com/u/0/uc?id=1Fn1D5bUvgig0kj3xN_T20xKA9aauKQQ0&export=download) | +473 | | belzedar_ in discord |
