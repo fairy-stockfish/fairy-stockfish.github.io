@@ -15,6 +15,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | 3check  | [3check-313cc226a173.nnue](https://drive.google.com/u/0/uc?id=1r5o5jboZRqND8picxuAbA0VXXMJM1HuS&export=download) | +276 | | Fabian Fichter |
 | 5check  |  |  | | | Compatible to 3check networks
 | ai-wok | [ai-wok-530fdd028e59.nnue](https://drive.google.com/u/0/uc?id=1x0Yk__LJEU91D0kjyCmdJc0qcf_nYDYU&export=download) | +352 | 2022/04/15 | belzedar_ in discord |
+| alapo | [alapo-d77bda8b533d.nnue](https://drive.google.com/u/0/uc?id=1Ggp5wAfRpoGLSac__snd_mzSRW6pZ9up&export=download) | +559 | 2023/09/04 | belzedar_ in discord |
 | almost | [almost-39e5d547319b.nnue](https://drive.google.com/u/0/uc?id=1icb5PxWDOtz4wQ1LCCXBPfn1lA2Hgp-5&export=download) | +120 | 2022/04/24 | belzedar_ in discord |
 | amazon | [amazon-f87549144bf8.nnue](https://drive.google.com/u/0/uc?id=1lY_V49wnvDQUrS_dRzLaNdmuhCNPbe2K&export=download) | +138 | 2022/04/24 | belzedar_ in discord |
 | antichess | [antichess-689c016df8e0.nnue](https://drive.google.com/u/0/uc?id=1SBLSmQmfrsxFHa3ntAhfYXyL3CoVSSL2&export=download) | +80 | 2022/08/24 | belzedar_ in discord |
