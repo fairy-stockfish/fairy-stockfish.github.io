@@ -37,6 +37,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | capture | [capture-d1dc2e97a3d8.nnue](https://drive.google.com/u/0/uc?id=1DxWtldVM0TSniPAKzlhAMGYHuZSqpYH7&export=download) | +603 | 2022/07/29 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#capture-chess)
 | captureall | [captureall-319f16ac33aa.nnue](https://drive.google.com/u/0/uc?id=1hOmgBNrByjXndmgCAA_48_AKwdoeDAHK&export=download) | +154 | 2022/04/24 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#capture-all)
 | capturethequeen  | [capturethequeen-f37e2a20b279.nnue](https://drive.google.com/u/0/uc?id=12DMB8tZgttNNarvno8X96Cm4v7w6Zphz&export=download) | +182 | 2023/09/04 | belzedar_ in discord |
+| castle  | [castle-6f8f06963acb.nnue](https://drive.google.com/u/0/uc?id=1PKh3V93NgLy9Ek8W9orKkLSGrGbzU0uy&export=download) | +264 | 2023/09/19 | belzedar_ in discord |
 | caught-in-a-snag  | [caught-in-a-snag-5a34075cdce3.nnue](https://drive.google.com/u/0/uc?id=1Tomv61uh5ujDjDitJPPrsexW_8yCwUbC&export=download) | +1058 | 2023/09/19 | belzedar_ in discord |
 | chak | [chak-068cc47e57f2.nnue](https://drive.google.com/u/0/uc?id=1E5JTwSNBOEKvFQyUg4PKl8fCvw94fWpd&export=download) | +2062 | 2022/08/23 | belzedar_ in discord |
 | chaturanga  | [chaturanga-1889e98f8d54.nnue](https://drive.google.com/u/0/uc?id=1kqqsa-sY-Azrqe0pFMPNPN2ztIYpg0OA&export=download) | +156 | 2022/04/20 | belzedar_ in discord |
