@@ -32,6 +32,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | buffalo | [buffalo-cfb43daa99e2.nnue](https://drive.google.com/u/0/uc?id=1nPmdTyC5Qqqm0mnaKMitu-yNeAcxeOfd&export=download) | +493 | 2023/05/04 | belzedar_ in discord |
 | bughouse  | [bughouse-cd8cceab93fe.nnue](https://drive.google.com/u/0/uc?id=1qZVSzm5G_KRc33YCqmsPM6Ayxo3CI4ME&export=download) | +403 | 2023/01/24 | belzedar_ in discord |
 | cambodian |  | |  | | Compatible with makruk networks
+| cannonshogi | [cannonshogi-fc3418a0346b.nnue](https://drive.google.com/u/0/uc?id=1W2XjTbvMkSteJFswe2cC52vFZlEjHQQB&export=download) | +350 | 2024/03/18 | autocorr in discord | 
 | capablanca  | [capablanca-bb644ef32758.nnue](https://drive.google.com/u/0/uc?id=1FbTMVSE8MA_0hrTTcTm5edYXTH8PItHR&export=download) | +354 | 2022/05/10 | belzedar_ in discord | Also compatible to gothic, embassy, caparandom
 | capahouse | [capahouse-727f2d6c8654.nnue](https://drive.google.com/u/0/uc?id=1J1iLiDppvfE-5jGxUSitwFRsEsj4jYvI&export=download) | +484 | 2023/01/24 | belzedar_ in discord | Capablanca + Crazyhouse
 | capture | [capture-d1dc2e97a3d8.nnue](https://drive.google.com/u/0/uc?id=1DxWtldVM0TSniPAKzlhAMGYHuZSqpYH7&export=download) | +603 | 2022/07/29 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#capture-chess)
