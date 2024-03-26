@@ -73,6 +73,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | jesonmor | [jesonmor-4211b8d73412.nnue](https://drive.google.com/u/0/uc?id=1aYmDWcIG9xmlHKTM6WMI8IKmOSF1hYO6&export=download) | +100 | 2022/08/08 | belzedar_ in discord |
 | kamikazerooks | [kamikazerooks-bd2283cb720a.nnue](https://drive.google.com/u/0/uc?id=1pohX_24grssrnp1zHjKgWRQAEOWNuzOD&export=download) | +1570 | 2022/05/02 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#kamikaze-rooks)
 | karouk | [karouk-b32b2113c722.nnue](https://drive.google.com/u/0/uc?id=1SIbElgATJE_2xUvt6iJN-Xm7lN7pDzsU&export=download) | +349 | 2022/04/15 | belzedar_ in discord |
+| khans | [khans-466a7f4a78f8.nnue](https://drive.google.com/u/0/uc?id=1YMkEeisAq3Fms_cIjnkZWvxW7XrYxeQj&export=download) | +510 | 2024/03/25 | autocorr in discord |
 | kinglet | [kinglet-05fb6b8b928e.nnue](https://drive.google.com/u/0/uc?id=1GjWdEKcl1gJbXslZF4i14HauwSlZt6qa&export=download) | +1007 | 2022/09/15 | belzedar_ in discord |
 | kingofthehill  | [kingofthehill-978b86d0e6a4.nnue](https://drive.google.com/u/0/uc?id=1x25r_1PgB5XqttkfR494M4rseiIm0BAV&export=download) | +644 | 2022/04/19 | belzedar_ in discord |
 | knightmate  | [knightmate-cd61f8401526.nnue](https://drive.google.com/u/0/uc?id=1Z3fAjS5Ea7bzCzUYgsp8Fox-wjZDl3kN&export=download) | +488 | 2022/07/26 | belzedar_ in discord | |
