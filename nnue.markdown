@@ -71,6 +71,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | isolation  | [isolation-e89caf35dd7a.nnue](https://drive.google.com/u/0/uc?id=1lXXhjTJnxTv4PWCSpjzr-0YdXoATsT14&export=download) | +1040 | 2023/02/03 | Mtaktikos#8757 & belzedar_ in discord |
 | janggi  | [janggi-4d3de2fee245.nnue](https://drive.google.com/u/0/uc?id=1OFwEmig0_2tZb5tHqtsv0TZD3M2ZUtZR&export=download) | +943 | 2023/03/27 | belzedar_ in discord | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/janggi-4d3de2fee245)
 | jesonmor | [jesonmor-4211b8d73412.nnue](https://drive.google.com/u/0/uc?id=1aYmDWcIG9xmlHKTM6WMI8IKmOSF1hYO6&export=download) | +100 | 2022/08/08 | belzedar_ in discord |
+| judkins | [judkins-7af07e4338cb.nnue](https://drive.google.com/u/0/uc?id=1GRsNc1rhes1y7KVHOPrNcj9EVKidugGM&export=download) | +70 | 2024/03/29 | autocorr in discord | 
 | kamikazerooks | [kamikazerooks-bd2283cb720a.nnue](https://drive.google.com/u/0/uc?id=1pohX_24grssrnp1zHjKgWRQAEOWNuzOD&export=download) | +1570 | 2022/05/02 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#kamikaze-rooks)
 | karouk | [karouk-b32b2113c722.nnue](https://drive.google.com/u/0/uc?id=1SIbElgATJE_2xUvt6iJN-Xm7lN7pDzsU&export=download) | +349 | 2022/04/15 | belzedar_ in discord |
 | khans | [khans-466a7f4a78f8.nnue](https://drive.google.com/u/0/uc?id=1YMkEeisAq3Fms_cIjnkZWvxW7XrYxeQj&export=download) | +510 | 2024/03/25 | autocorr in discord |
