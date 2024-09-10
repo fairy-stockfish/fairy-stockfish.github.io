@@ -43,6 +43,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | chak | [chak-068cc47e57f2.nnue](https://drive.google.com/u/0/uc?id=1E5JTwSNBOEKvFQyUg4PKl8fCvw94fWpd&export=download) | +2062 | 2022/08/23 | belzedar_ in discord |
 | chaturanga  | [chaturanga-1889e98f8d54.nnue](https://drive.google.com/u/0/uc?id=1kqqsa-sY-Azrqe0pFMPNPN2ztIYpg0OA&export=download) | +156 | 2022/04/20 | belzedar_ in discord |
 | checkmateless | [checkmateless-e0e30dd72801.nnue](https://drive.google.com/u/0/uc?id=128mxvT10mjNsafggVYL2EyTrQOLLXCv6&export=download) | +735 | 2022/06/03 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#checkmateless-chess)
+| checkshogi | [checkshogi-63b3bd1987bd.nnue](https://drive.google.com/u/0/uc?id=182JxVnEY0q_bUybwtEbMEWRJwNjJUx0f&export=download) | +700 | 2024/09/10 | Fabian Fichter |
 | chennis | [chennis-a800b7f12a4e.nnue](https://drive.google.com/u/0/uc?id=1Ybv8Y8xqMJUkgIDjsGibEzNtdp8p_rkM&export=download) | +471 | 2022/07/21 | belzedar_ in discord |
 | chess | [nn-46832cfbead3.nnue](https://tests.stockfishchess.org/api/nn/nn-46832cfbead3.nnue) | +300 | | | Net from official SF
 | chessvshp | [chessvshp-ab6490858f72.nnue](https://drive.google.com/u/0/uc?id=1QoOw0_KTNt1p2J0KaTDAK741od_H_uwK&export=download) | +174 | 2022/05/27 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#chess-vs-hoppel-poppel)
