@@ -18,7 +18,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | alapo | [alapo-d77bda8b533d.nnue](https://drive.google.com/u/0/uc?id=1Ggp5wAfRpoGLSac__snd_mzSRW6pZ9up&export=download) | +559 | 2023/09/04 | belzedar_ in discord |
 | almost | [almost-39e5d547319b.nnue](https://drive.google.com/u/0/uc?id=1icb5PxWDOtz4wQ1LCCXBPfn1lA2Hgp-5&export=download) | +120 | 2022/04/24 | belzedar_ in discord |
 | amazon | [amazon-f87549144bf8.nnue](https://drive.google.com/u/0/uc?id=1lY_V49wnvDQUrS_dRzLaNdmuhCNPbe2K&export=download) | +138 | 2022/04/24 | belzedar_ in discord |
-| antichess | [antichess-689c016df8e0.nnue](https://drive.google.com/u/0/uc?id=1SBLSmQmfrsxFHa3ntAhfYXyL3CoVSSL2&export=download) | +80 | 2022/08/24 | belzedar_ in discord |
+| antichess | [antichess-dd3cbe53cd4e.nnue](https://drive.google.com/u/0/uc?id=1a6j61utWpCTADQ8k6BBqYMcKjJ5ESdbl&export=download) | +200 | 2024/09/17 | Fabian Fichter |
 | asean | [asean-47ebb2f6be7b.nnue](https://drive.google.com/u/0/uc?id=123GKcbRkAEdOSi6q6tg-qYTuv1dIwEue&export=download) | +505 | 2022/09/12 | belzedar_ in discord |
 | ataxx | [ataxx-e631fe1b1b6d.nnue](https://drive.google.com/u/0/uc?id=1RxG06786uZYuY7wCQ6AX5xM4M8SS90p9&export=download) | +202 | 2022/05/30 | belzedar_ in discord |
 | atomar  | [atomar-31ef8e2fb4b6.nnue](https://drive.google.com/u/0/uc?id=1ieWTXzdOYHsBWPVdl6_ZFwhsieLyhYgV&export=download) | +407 | 2023/08/28 | belzedar_ in discord |
@@ -52,7 +52,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | crazyhouse  | [crazyhouse-8ebf84784ad2.nnue](https://drive.google.com/u/0/uc?id=1nieguR4yCb0BlME-AUhcrFYkmyIOGvqs&export=download) | +1136 | 2022/09/05 | belzedar_ in discord |
 | crossderby | [crossderby-41174b43b913.nnue](https://drive.google.com/u/0/uc?id=1O__7xgCG-JguxMyE_hp-9VzaV_4N4SQu&export=download) | +1186 | 2023/04/11 | belzedar_ in discord |
 | crossing | [crossing-796ff991bbb5.nnue](https://drive.google.com/u/0/uc?id=1nenleVt6iuwLV-BNCcMRGY9YPo286X6O&export=download) | +571 | 2022/07/31 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#crossing)
-| dobutsu | [dobutsu-b69e434ed334.nnue](https://drive.google.com/u/0/uc?id=1RkejB62mrXj9h0QdwT9ABsA2fvNzSPMJ&export=download) | +21 | 2022/05/24 | belzedar_ in discord |
+| dobutsu | [dobutsu-9b0989c28462.nnue](https://drive.google.com/u/0/uc?id=114WfouTyr05gbvraeqzRpg5axwQu77A6&export=download) | +30 | 2024/09/17 | Fabian Fichter |
 | doublearmy | [doublearmy-ec096e17b49b.nnue](https://drive.google.com/u/0/uc?id=1oLMMqAYPYyFVBbdnpwmACEuJcncdHEUh&export=download) | +392 | 2022/08/01 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#double-army)
 | dragon | [dragon-38de1d1ced8a.nnue](https://drive.google.com/u/0/uc?id=1o1ikZ08AKFiu7Gc2hsDA2kxhVI8VUX_e&export=download) | +139 | 2022/09/12 | belzedar_ in discord |
 | dragonfly | [dragonfly-f810e661ca8b.nnue](https://drive.google.com/u/0/uc?id=1qaFibACiHYaM9ExdqAr-Y_RGb6HI5zoC&export=download) | +424 | 2022/04/12 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#dragonfly-chess)
@@ -110,7 +110,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | shaolinking | [shaolinking-ad85d8c73ff6.nnue](https://drive.google.com/u/0/uc?id=1Wny8-rirEPar2F2KCXOXyxLmH0gSFSnc&export=download) | +500 | 2024/08/30 | nishibuya in discord | [Custom defined variant](https://github.com/autocorr/pychess-variants/blob/050cbca8a517c6ef50b1a6953e2a231adb06c7ed/variants.ini#L677)
 | shako  | [shako-132828f9a311.nnue](https://drive.google.com/u/0/uc?id=1WbV0E5ruRpNQfmLm6m-ue8iP9wb8MZLD&export=download) | +355 | 2022/06/26 | belzedar_ in discord |
 | shatar | [shatar-9798d8353f1e.nnue](https://drive.google.com/u/0/uc?id=10DF_Rj8DcGkYjtylbZ4VnHwj8slth0CU&export=download) | +228 | 2022/04/20 | belzedar_ in discord |
-| shatranj  | [shatranj-27f6cf35e3fc.nnue](https://drive.google.com/u/0/uc?id=15LZixqirndspeF9p8HCqIv5cLHf0T0Kx&export=download) | +222 | 2022/04/24 | belzedar_ in discord |
+| shatranj  | [shatranj-2859a2411c29.nnue](https://drive.google.com/u/0/uc?id=1rexLnBvGkdJYqzhFGQZQ1T8LTbmx0PIV&export=download) | +278 | 2024/09/17 | Fabian Fichter |
 | shinobi | [shinobi-5136c71b83bf.nnue](https://drive.google.com/u/0/uc?id=1Gvwkxs_aMP57RDYndxtwNpytyf4xHEAi&export=download) | +790 | 2022/05/10 | belzedar_ in discord | Only compatible with Largeboards binary. |
 | shinobiplus | [shinobiplus-3f956bad5d14.nnue](https://drive.google.com/u/0/uc?id=1L5gwtoWyJVJDSRLlqhqxxEmUD2JgqVCb&export=download) | +696 | 2023/06/07 | GemOfLife#3419 | Only compatible with Largeboards binary. |
 | shogi  | [shogi-878ca61334a7.nnue](https://drive.google.com/u/0/uc?id=1RA0mstKWi_tH98DVdLGBamEdE8FXiSgB&export=download) | >+1000 | | Fabian Fichter |
