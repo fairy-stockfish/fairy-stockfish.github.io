@@ -26,6 +26,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | antiatomic | [antiatomic-b2484472d286.nnue](https://drive.google.com/u/0/uc?id=1G62LG5j88GsnNKLqaCaPbVNXrUUywbAn&export=download) | +812 | 2025/07/31 | belzedar_ in discord |
 | antichess | [antichess-dd3cbe53cd4e.nnue](https://drive.google.com/u/0/uc?id=1a6j61utWpCTADQ8k6BBqYMcKjJ5ESdbl&export=download) | +200 | 2024/09/17 | Fabian Fichter |
 | antihouse | [antihouse-66adada8e7bb.nnue](https://drive.google.com/u/0/uc?id=1Dfgvp6M4D55aLL1vD8Oeps7jAG_CeQ36&export=download) | +382 | 2025/07/31 | belzedar_ in discord |
+| antimak | [antimak-c3fc2452a2eb.nnue](https://drive.google.com/u/0/uc?id=1_FHCLhl_4g6fgjzecGydQMQhrdG8VELV&export=download) | +55 | 2025/07/31 | belzedar_ in discord |
 | asean | [asean-47ebb2f6be7b.nnue](https://drive.google.com/u/0/uc?id=123GKcbRkAEdOSi6q6tg-qYTuv1dIwEue&export=download) | +505 | 2022/09/12 | belzedar_ in discord |
 | ataxx | [ataxx-e631fe1b1b6d.nnue](https://drive.google.com/u/0/uc?id=1RxG06786uZYuY7wCQ6AX5xM4M8SS90p9&export=download) | +202 | 2022/05/30 | belzedar_ in discord |
 | atomar  | [atomar-31ef8e2fb4b6.nnue](https://drive.google.com/u/0/uc?id=1ieWTXzdOYHsBWPVdl6_ZFwhsieLyhYgV&export=download) | +407 | 2023/08/28 | belzedar_ in discord |
