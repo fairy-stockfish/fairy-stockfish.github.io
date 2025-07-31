@@ -55,6 +55,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | chennis | [chennis-a800b7f12a4e.nnue](https://drive.google.com/u/0/uc?id=1Ybv8Y8xqMJUkgIDjsGibEzNtdp8p_rkM&export=download) | +471 | 2022/07/21 | belzedar_ in discord |
 | chess | [nn-46832cfbead3.nnue](https://tests.stockfishchess.org/api/nn/nn-46832cfbead3.nnue) | +300 | | | Net from official SF
 | chessvshp | [chessvshp-ab6490858f72.nnue](https://drive.google.com/u/0/uc?id=1QoOw0_KTNt1p2J0KaTDAK741od_H_uwK&export=download) | +174 | 2022/05/27 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#chess-vs-hoppel-poppel)
+| coffeehouse | [coffeehouse-382a268a1ce4.nnue](https://drive.google.com/u/0/uc?id=1DU8lI6V5kC_CKPUIgZSjNiq0ij6MnilK&export=download) | +345 | 2025/07/31 | belzedar_ in discord |
 | coregal | [coregal-ad18884bdd3d.nnue](https://drive.google.com/u/0/uc?id=1n0NMAj18LLVVB53hn19XPmc07d8a6aPR&export=download) | +265 | 2022/07/31 | belzedar_ in discord |
 | courier | [courier-dd4bd1b77c17.nnue](https://drive.google.com/u/0/uc?id=1fL4VOp1n8RH-S3xU63rYbVCgo-oJ-XCm&export=download) | +756 | 2022/09/09 | belzedar_ in discord |
 | crazyhouse  | [crazyhouse-8ebf84784ad2.nnue](https://drive.google.com/u/0/uc?id=1nieguR4yCb0BlME-AUhcrFYkmyIOGvqs&export=download) | +1136 | 2022/09/05 | belzedar_ in discord |
