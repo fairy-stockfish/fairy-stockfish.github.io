@@ -100,6 +100,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | losalamos | [losalamos-4bee7c4fb6d3.nnue](https://drive.google.com/u/0/uc?id=1qeCQINcVbJkXn7eEbHuFKXdpVL-qpzMY&export=download) | +84 | 2022/08/08 | belzedar_ in discord |
 | losers  | [losers-3ea1d7d4a61f.nnue](https://drive.google.com/u/0/uc?id=1DgqWen6CkkU6kdyRt4cGfNrUOkP02Bzk&export=download) | +368 | 2022/09/19 | belzedar_ in discord |
 | mak3check  | [mak3check-dc48bc89fa8a.nnue](https://drive.google.com/u/0/uc?id=16R_VjNILIgwwEgSCoEeO5ULquQaXQukK&export=download) | +55 | 2025/07/31 | belzedar_ in discord |
+| makhill  | [makhill-c5654a148675.nnue](https://drive.google.com/u/0/uc?id=1_JYYudxs9l3JvBEEgivCRPcjXawR-pKd&export=download) | +426 | 2025/07/31 | belzedar_ in discord |
 | makpong | [makpong-eae03bc9dbf8.nnue](https://drive.google.com/u/0/uc?id=1iIbHaTLDvJLF2HGMEkXs4b_mi2ajqJUU&export=download) | +931 | 2022/04/28 | belzedar_ in discord |
 | makruk  | [makruk-a8c621e24a8c.nnue](https://drive.google.com/u/0/uc?id=1jOhdVe1VBZjBaPWO2IYR1_iscyMA0ylW&export=download) | +248 | 2022/09/19 | belzedar_ in discord | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/makruk-a8c621e24a8c)
 | makrukhouse | [makrukhouse-3b28cf864f23.nnue](https://drive.google.com/u/0/uc?id=1C0e8hhhbNzYs1epvKozKOO063wtCdvWI&export=download) | +600 | 2022/09/19 | belzedar_ in discord |
