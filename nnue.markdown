@@ -106,6 +106,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | placement |  | | | | Compatible with chess (`nn-...`) networks
 | racingchess | [racingchess-2d84b5d38001.nnue](https://drive.google.com/u/0/uc?id=1_bm2ZzDBWaCToXyrDhFDyAQ7xvXQPhZw&export=download) | +492 | 2022/04/12 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#racing-chess)
 | racingkings  | [racingkings-636b95f085e3.nnue](https://drive.google.com/u/0/uc?id=1Tiq8FqSu7eiekE2iaWQzSdJPg-mhvLzJ&export=download) | +374 | 2022/06/13 | belzedar_ in discord |
+| rookmate  | [rookmate-628a294ef446.nnue](https://drive.google.com/u/0/uc?id=1EClau9_R2Z7W2SyM1iGmXr2dWHcZWGlx&export=download) | +634 | 2025/07/31 | belzedar_ in discord |
 | seirawan  | [seirawan-432c65fe71fc.nnue](https://drive.google.com/u/0/uc?id=1vZfLrkKdO1Sdo__jRPpuvrvvQD_mYsZX&export=download) | +359 | 2022/05/24 | belzedar_ in discord |
 | shaolinking | [shaolinking-ad85d8c73ff6.nnue](https://drive.google.com/u/0/uc?id=1Wny8-rirEPar2F2KCXOXyxLmH0gSFSnc&export=download) | +500 | 2024/08/30 | nishibuya in discord | [Custom defined variant](https://github.com/autocorr/pychess-variants/blob/050cbca8a517c6ef50b1a6953e2a231adb06c7ed/variants.ini#L677)
 | shako  | [shako-132828f9a311.nnue](https://drive.google.com/u/0/uc?id=1WbV0E5ruRpNQfmLm6m-ue8iP9wb8MZLD&export=download) | +355 | 2022/06/26 | belzedar_ in discord |
