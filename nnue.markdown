@@ -63,6 +63,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | dobutsu | [dobutsu-9b0989c28462.nnue](https://drive.google.com/u/0/uc?id=114WfouTyr05gbvraeqzRpg5axwQu77A6&export=download) | +30 | 2024/09/17 | Fabian Fichter |
 | doublearmy | [doublearmy-ec096e17b49b.nnue](https://drive.google.com/u/0/uc?id=1oLMMqAYPYyFVBbdnpwmACEuJcncdHEUh&export=download) | +392 | 2022/08/01 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#double-army)
 | dragon | [dragon-38de1d1ced8a.nnue](https://drive.google.com/u/0/uc?id=1o1ikZ08AKFiu7Gc2hsDA2kxhVI8VUX_e&export=download) | +139 | 2022/09/12 | belzedar_ in discord |
+| dragon-chess | [dragon-chess-ca99c8d3853b.nnue](https://drive.google.com/u/0/uc?id=1ZrxEmFD4j13j6okp0gCYhx6HBJokLmOT&export=download) | +367 | 2025/07/31 | belzedar_ in discord |
 | dragonfly | [dragonfly-f810e661ca8b.nnue](https://drive.google.com/u/0/uc?id=1qaFibACiHYaM9ExdqAr-Y_RGb6HI5zoC&export=download) | +424 | 2022/04/12 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#dragonfly-chess)
 | duck | [duck-ba21f91f5d81.nnue](https://drive.google.com/u/0/uc?id=18OCEAX2BiioIlW4Eg-YrJxbrujfMUCm7&export=download) | +468 | 2023/01/24 | Mtaktikos#8757 & belzedar_ in discord |
 | elimination | [elimination-1c109379396c.nnue](https://drive.google.com/u/0/uc?id=1DW8OI50EEqGCbZUI7J6x6KxbHgkohC0c&export=download) | +1303 | 2023/04/21 | belzedar_ in discord |
