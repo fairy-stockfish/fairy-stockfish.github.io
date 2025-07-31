@@ -17,6 +17,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | active | [active-41937adf950a.nnue](https://drive.google.com/u/0/uc?id=10hbC8MNAvWWX8GJOhXiOkmqVX5XM-hSa&export=download) | +273 | 2025/07/31 | belzedar_ in discord |
 | ai-wok | [ai-wok-530fdd028e59.nnue](https://drive.google.com/u/0/uc?id=1x0Yk__LJEU91D0kjyCmdJc0qcf_nYDYU&export=download) | +352 | 2022/04/15 | belzedar_ in discord |
 | alapo | [alapo-d77bda8b533d.nnue](https://drive.google.com/u/0/uc?id=1Ggp5wAfRpoGLSac__snd_mzSRW6pZ9up&export=download) | +559 | 2023/09/04 | belzedar_ in discord |
+| allwayspawns | [allwayspawns-14b62a6ed6ab.nnue](https://drive.google.com/u/0/uc?id=1qiwQL2lOVqbgTIsqjcePr5ixGJgMxiPL&export=download) | +804 | 2025/07/31 | belzedar_ in discord |
 | almost | [almost-39e5d547319b.nnue](https://drive.google.com/u/0/uc?id=1icb5PxWDOtz4wQ1LCCXBPfn1lA2Hgp-5&export=download) | +120 | 2022/04/24 | belzedar_ in discord |
 | amazon | [amazon-f87549144bf8.nnue](https://drive.google.com/u/0/uc?id=1lY_V49wnvDQUrS_dRzLaNdmuhCNPbe2K&export=download) | +138 | 2022/04/24 | belzedar_ in discord |
 | antichess | [antichess-dd3cbe53cd4e.nnue](https://drive.google.com/u/0/uc?id=1a6j61utWpCTADQ8k6BBqYMcKjJ5ESdbl&export=download) | +200 | 2024/09/17 | Fabian Fichter |
