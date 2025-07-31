@@ -106,6 +106,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | pawnback | [pawnback-856713dd34cc.nnue](https://drive.google.com/u/0/uc?id=1y-S_us8RRxBf09I_NB5ErutZ5IdXGQ6o&export=download) | +637 | 2023/04/14 | belzedar_ in discord |
 | pawnsideways | [pawnsideways-68b37e5c25b0.nnue](https://drive.google.com/u/0/uc?id=1AvP9VBjZbU02AEcOCqeAy3hJ-Ye3jCt3&export=download) | +1021 | 2023/04/07 | belzedar_ in discord |
 | pawnsking  | [pawnsking-3ff6ca784355.nnue](https://drive.google.com/u/0/uc?id=1bSHkRswM6l--oUYA7J48znUsQNO0dZlA&export=download) | +786 | 2025/07/31 | belzedar_ in discord |
+| perfect | [perfect-2f1fa62897b6.nnue](https://drive.google.com/u/0/uc?id=1-GYa8EBCaHbYWlaUSVJWzH6nKjeBDZmW&export=download) | +371 | 2025/07/31 | belzedar_ in discord |
 | petrified | [petrified-fa7e5810f172.nnue](https://drive.google.com/u/0/uc?id=1AQvihbxa30tQmUxX_0DDWci7AzoAyeja&export=download) | +1029 | 2023/09/19 | belzedar_ in discord |
 | placement |  | | | | Compatible with chess (`nn-...`) networks
 | racingchess | [racingchess-2d84b5d38001.nnue](https://drive.google.com/u/0/uc?id=1_bm2ZzDBWaCToXyrDhFDyAQ7xvXQPhZw&export=download) | +492 | 2022/04/12 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#racing-chess)
