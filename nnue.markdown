@@ -92,6 +92,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | kingofthehill  | [kingofthehill-978b86d0e6a4.nnue](https://drive.google.com/u/0/uc?id=1x25r_1PgB5XqttkfR494M4rseiIm0BAV&export=download) | +644 | 2022/04/19 | belzedar_ in discord |
 | knightmate  | [knightmate-cd61f8401526.nnue](https://drive.google.com/u/0/uc?id=1Z3fAjS5Ea7bzCzUYgsp8Fox-wjZDl3kN&export=download) | +488 | 2022/07/26 | belzedar_ in discord | |
 | kyotoshogi | [kyotoshogi-bd1003a29d89.nnue](https://drive.google.com/u/0/uc?id=1vj829y8S_MHJF3YPuJ28O_2o7oSU_yaz&export=download) | +127 | 2022/05/24 | belzedar_ in discord |
+| la-mancha-squeez  | [la-mancha-squeez-15935698fea8.nnue](https://drive.google.com/u/0/uc?id=1Q3Wju7-I4EMhaw-CzgGGDugO2hAIlLhO&export=download) | +565 | 2025/07/31 | belzedar_ in discord |
 | legan | [legan-70f73b6fda50.nnue](https://drive.google.com/u/0/uc?id=18fozU8LfNP-5LCbBlMv13UN8iC7ww20h&export=download) | +576 | 2023/04/24 | belzedar_ in discord |
 | losalamos | [losalamos-4bee7c4fb6d3.nnue](https://drive.google.com/u/0/uc?id=1qeCQINcVbJkXn7eEbHuFKXdpVL-qpzMY&export=download) | +84 | 2022/08/08 | belzedar_ in discord |
 | losers  | [losers-3ea1d7d4a61f.nnue](https://drive.google.com/u/0/uc?id=1DgqWen6CkkU6kdyRt4cGfNrUOkP02Bzk&export=download) | +368 | 2022/09/19 | belzedar_ in discord |
