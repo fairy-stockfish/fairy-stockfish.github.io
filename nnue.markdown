@@ -63,6 +63,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | euroshogi | [euroshogi-bf3218dec3c8.nnue](https://drive.google.com/u/0/uc?id=1YUVgQ_hhtld9SamUnv2dW8nG6iGiyVMW&export=download) | +601 | 2022/07/23 | belzedar_ in discord |
 | extinction | [extinction-4c75a5e2850a.nnue](https://drive.google.com/u/0/uc?id=1a4a45Q4V4sXHPJz0pe0r-kAqAmqzDvJr&export=download) | +699 | 2024/09/10 | nishibuya in discord | [14.0 version +863 by belzedar_](https://drive.google.com/u/0/uc?id=1CSaOnPi0Gfo3t9GqC1XTLoXHBG_G8wvK&export=download)
 | flipello | [flipello-aed1bd5d741b.nnue](https://drive.google.com/u/0/uc?id=1elo97JNczmeQSyK_YMxw3xmOD9_fWP-C&export=download) | +354 | 2022/06/10 | belzedar_ in discord |
+| forward | [forward-656da5c89014.nnue](https://drive.google.com/u/0/uc?id=1llOHXGNpeQUa-6ccyU3GJK8ZuXqZbw8F&export=download) | +870 | 2025/07/31 | belzedar_ in discord |
 | gethenian  | [gethenian-04577cdae549.nnue](https://drive.google.com/u/0/uc?id=1tPW4lF9GJPs3EbZirv73VJYbnkZvnLWQ&export=download) | +293 | 2025/07/31 | belzedar_ in discord |
 | gorogoroplus | [gorogoroplus-7bc64726c1c1.nnue](https://drive.google.com/u/0/uc?id=1-k87I3fKHrpfbZwEgqDzYVlZivL4emcE&export=download) | +230 | 2022/04/15 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#goro-goro-plus)
 | grand | [grand-9e13c7b0ed97.nnue](https://drive.google.com/u/0/uc?id=1Q84y9M93IQG3GUr-ibY8NGjJSEnpV3zy&export=download) | +390 | 2022/05/17 | belzedar_ in discord |
