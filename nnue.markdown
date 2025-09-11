@@ -13,7 +13,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 |  variant | network | Elo vs. classical | date | author | comment |
 |---|---|---|---|---|---|
 | 3check  | [3check-cb5f517c228b.nnue](https://drive.google.com/u/0/uc?id=1z5oUQbqiE0ZIoQ8Z64y2lF91Rz1rUoWP&export=download) | +200 | | nishibuya in discord |
-| 5check  |  |  | | | Compatible to 3check networks
+| 5check  |  |  | | | Compatible with 3check networks
 | active | [active-41937adf950a.nnue](https://drive.google.com/u/0/uc?id=10hbC8MNAvWWX8GJOhXiOkmqVX5XM-hSa&export=download) | +273 | 2025/07/31 | belzedar_ in discord |
 | ai-wok | [ai-wok-530fdd028e59.nnue](https://drive.google.com/u/0/uc?id=1x0Yk__LJEU91D0kjyCmdJc0qcf_nYDYU&export=download) | +352 | 2022/04/15 | belzedar_ in discord |
 | ajax-orthodox | [ajax-orthodox-8755d3f59603.nnue](https://drive.google.com/u/0/uc?id=1ESSYMP5IjBV980_KLSK3rR4tUsOt_NBs&export=download) | +113 | 2025/07/31 | belzedar_ in discord |
@@ -42,8 +42,9 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | bughouse  | [bughouse-cd8cceab93fe.nnue](https://drive.google.com/u/0/uc?id=1qZVSzm5G_KRc33YCqmsPM6Ayxo3CI4ME&export=download) | +403 | 2023/01/24 | belzedar_ in discord |
 | cambodian |  | |  | | Compatible with makruk networks
 | cannonshogi | [cannonshogi-b9b7fc49f641.nnue](https://drive.google.com/u/0/uc?id=1cs3_NXD75SzJDBRzNQoF_TFpOhjpx_kc&export=download) | +400 | 2024/03/24 | autocorr in discord | 
-| capablanca  | [capablanca-bb644ef32758.nnue](https://drive.google.com/u/0/uc?id=1FbTMVSE8MA_0hrTTcTm5edYXTH8PItHR&export=download) | +354 | 2022/05/10 | belzedar_ in discord | Also compatible to gothic, embassy, caparandom
+| capablanca  | [capablanca-bb644ef32758.nnue](https://drive.google.com/u/0/uc?id=1FbTMVSE8MA_0hrTTcTm5edYXTH8PItHR&export=download) | +354 | 2022/05/10 | belzedar_ in discord |
 | capahouse | [capahouse-727f2d6c8654.nnue](https://drive.google.com/u/0/uc?id=1J1iLiDppvfE-5jGxUSitwFRsEsj4jYvI&export=download) | +484 | 2023/01/24 | belzedar_ in discord | Capablanca + Crazyhouse
+| caparandom |  |  | | | Compatible with capablanca networks
 | capture | [capture-d1dc2e97a3d8.nnue](https://drive.google.com/u/0/uc?id=1DxWtldVM0TSniPAKzlhAMGYHuZSqpYH7&export=download) | +603 | 2022/07/29 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#capture-chess)
 | captureall | [captureall-319f16ac33aa.nnue](https://drive.google.com/u/0/uc?id=1hOmgBNrByjXndmgCAA_48_AKwdoeDAHK&export=download) | +154 | 2022/04/24 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#capture-all)
 | capturethequeen  | [capturethequeen-f37e2a20b279.nnue](https://drive.google.com/u/0/uc?id=12DMB8tZgttNNarvno8X96Cm4v7w6Zphz&export=download) | +182 | 2023/09/04 | belzedar_ in discord |
@@ -55,6 +56,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | checkshogi | [checkshogi-63b3bd1987bd.nnue](https://drive.google.com/u/0/uc?id=182JxVnEY0q_bUybwtEbMEWRJwNjJUx0f&export=download) | +700 | 2024/09/10 | Fabian Fichter |
 | chennis | [chennis-a800b7f12a4e.nnue](https://drive.google.com/u/0/uc?id=1Ybv8Y8xqMJUkgIDjsGibEzNtdp8p_rkM&export=download) | +471 | 2022/07/21 | belzedar_ in discord |
 | chess | [nn-46832cfbead3.nnue](https://tests.stockfishchess.org/api/nn/nn-46832cfbead3.nnue) | +300 | | | Net from official SF
+| chessgi |  |  | | | Compatible with crazyhouse networks
 | chessvshp | [chessvshp-ab6490858f72.nnue](https://drive.google.com/u/0/uc?id=1QoOw0_KTNt1p2J0KaTDAK741od_H_uwK&export=download) | +174 | 2022/05/27 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#chess-vs-hoppel-poppel)
 | coffeehouse | [coffeehouse-382a268a1ce4.nnue](https://drive.google.com/u/0/uc?id=1DU8lI6V5kC_CKPUIgZSjNiq0ij6MnilK&export=download) | +345 | 2025/07/31 | belzedar_ in discord |
 | coffeethreecheck | [coffeethreecheck-8701c021f6e4.nnue](https://drive.google.com/u/0/uc?id=145v9OgzN2uPgsDU_WJokwzkwkSU36uBQ&export=download) | +62 | 2025/07/31 | belzedar_ in discord |
@@ -71,13 +73,17 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | dragonfly | [dragonfly-f810e661ca8b.nnue](https://drive.google.com/u/0/uc?id=1qaFibACiHYaM9ExdqAr-Y_RGb6HI5zoC&export=download) | +424 | 2022/04/12 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#dragonfly-chess)
 | duck | [duck-ba21f91f5d81.nnue](https://drive.google.com/u/0/uc?id=18OCEAX2BiioIlW4Eg-YrJxbrujfMUCm7&export=download) | +468 | 2023/01/24 | Mtaktikos#8757 & belzedar_ in discord |
 | elimination | [elimination-1c109379396c.nnue](https://drive.google.com/u/0/uc?id=1DW8OI50EEqGCbZUI7J6x6KxbHgkohC0c&export=download) | +1303 | 2023/04/21 | belzedar_ in discord |
+| embassy |  |  | | | Compatible with capablanca networks
 | empire | [empire-751feb44316d.nnue](https://drive.google.com/u/0/uc?id=17CvRd9jxeZ21uop8DHhtHnw08hbz-sBI&export=download) | +635 | 2022/05/24 | belzedar_ in discord |
 | euroshogi | [euroshogi-bf3218dec3c8.nnue](https://drive.google.com/u/0/uc?id=1YUVgQ_hhtld9SamUnv2dW8nG6iGiyVMW&export=download) | +601 | 2022/07/23 | belzedar_ in discord |
 | extinction | [extinction-4c75a5e2850a.nnue](https://drive.google.com/u/0/uc?id=1a4a45Q4V4sXHPJz0pe0r-kAqAmqzDvJr&export=download) | +699 | 2024/09/10 | nishibuya in discord | [14.0 version +863 by belzedar_](https://drive.google.com/u/0/uc?id=1CSaOnPi0Gfo3t9GqC1XTLoXHBG_G8wvK&export=download)
+| fischerandom |  |  | | | Compatible with chess (`nn-...`) networks
 | flipello | [flipello-aed1bd5d741b.nnue](https://drive.google.com/u/0/uc?id=1elo97JNczmeQSyK_YMxw3xmOD9_fWP-C&export=download) | +354 | 2022/06/10 | belzedar_ in discord |
 | forward | [forward-656da5c89014.nnue](https://drive.google.com/u/0/uc?id=1llOHXGNpeQUa-6ccyU3GJK8ZuXqZbw8F&export=download) | +870 | 2025/07/31 | belzedar_ in discord |
 | gethenian  | [gethenian-04577cdae549.nnue](https://drive.google.com/u/0/uc?id=1tPW4lF9GJPs3EbZirv73VJYbnkZvnLWQ&export=download) | +293 | 2025/07/31 | belzedar_ in discord |
+| giveaway |  |  | | | Compatible with antichess networks
 | gorogoroplus | [gorogoroplus-7bc64726c1c1.nnue](https://drive.google.com/u/0/uc?id=1-k87I3fKHrpfbZwEgqDzYVlZivL4emcE&export=download) | +230 | 2022/04/15 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#goro-goro-plus)
+| gothic |  |  | | | Compatible with capablanca networks
 | grand | [grand-9e13c7b0ed97.nnue](https://drive.google.com/u/0/uc?id=1Q84y9M93IQG3GUr-ibY8NGjJSEnpV3zy&export=download) | +390 | 2022/05/17 | belzedar_ in discord |
 | grandhouse | [grandhouse-dd70cad78bc1.nnue](https://drive.google.com/u/0/uc?id=1f9_y4atKvoyj18ofsmutN6bF3uuyEAjq&export=download) | +760 | 2023/08/28 | belzedar_ in discord |
 | grasshopper | [grasshopper-2bb252371adf.nnue](https://drive.google.com/u/0/uc?id=1dE7NiNapQ8T3-D4kaak-LxqIjXUWRcaa&export=download) | +2574 | 2022/06/13 | belzedar_ in discord |
@@ -86,6 +92,9 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | horde  | [horde-28173ddccabe.nnue](https://drive.google.com/u/0/uc?id=16BQztGqFIS1n_dYtmdfFVE2EexF-KagX&export=download) | +490 | | belzedar_ in discord |
 | isolation  | [isolation-e89caf35dd7a.nnue](https://drive.google.com/u/0/uc?id=1lXXhjTJnxTv4PWCSpjzr-0YdXoATsT14&export=download) | +1040 | 2023/02/03 | Mtaktikos#8757 & belzedar_ in discord | 
 | janggi  | [janggi-9991472750de.nnue](https://drive.google.com/u/0/uc?id=1dAEzbK1rOm8UGm_-CLdDEgeopFDcAtQP&export=download) | +1128 | 2025/07/31 | belzedar_ in discord | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/janggi-9991472750de)
+| janggicasual |  |  | | | Compatible with janggi networks
+| janggimodern |  |  | | | Compatible with janggi networks
+| janggitraditional |  |  | | | Compatible with janggi networks
 | jesonmor | [jesonmor-4211b8d73412.nnue](https://drive.google.com/u/0/uc?id=1aYmDWcIG9xmlHKTM6WMI8IKmOSF1hYO6&export=download) | +100 | 2022/08/08 | belzedar_ in discord |
 | judkins | [judkins-7af07e4338cb.nnue](https://drive.google.com/u/0/uc?id=1GRsNc1rhes1y7KVHOPrNcj9EVKidugGM&export=download) | +70 | 2024/03/29 | autocorr in discord | 
 | kamikazerooks | [kamikazerooks-bd2283cb720a.nnue](https://drive.google.com/u/0/uc?id=1pohX_24grssrnp1zHjKgWRQAEOWNuzOD&export=download) | +1570 | 2022/05/02 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#kamikaze-rooks)
@@ -99,6 +108,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | legan | [legan-70f73b6fda50.nnue](https://drive.google.com/u/0/uc?id=18fozU8LfNP-5LCbBlMv13UN8iC7ww20h&export=download) | +576 | 2023/04/24 | belzedar_ in discord |
 | losalamos | [losalamos-4bee7c4fb6d3.nnue](https://drive.google.com/u/0/uc?id=1qeCQINcVbJkXn7eEbHuFKXdpVL-qpzMY&export=download) | +84 | 2022/08/08 | belzedar_ in discord |
 | losers  | [losers-3ea1d7d4a61f.nnue](https://drive.google.com/u/0/uc?id=1DgqWen6CkkU6kdyRt4cGfNrUOkP02Bzk&export=download) | +368 | 2022/09/19 | belzedar_ in discord |
+| loop |  |  | | | Compatible with crazyhouse networks
 | mak3check  | [mak3check-dc48bc89fa8a.nnue](https://drive.google.com/u/0/uc?id=16R_VjNILIgwwEgSCoEeO5ULquQaXQukK&export=download) | +55 | 2025/07/31 | belzedar_ in discord |
 | makhill  | [makhill-c5654a148675.nnue](https://drive.google.com/u/0/uc?id=1_JYYudxs9l3JvBEEgivCRPcjXawR-pKd&export=download) | +426 | 2025/07/31 | belzedar_ in discord |
 | makpong | [makpong-eae03bc9dbf8.nnue](https://drive.google.com/u/0/uc?id=1iIbHaTLDvJLF2HGMEkXs4b_mi2ajqJUU&export=download) | +931 | 2022/04/28 | belzedar_ in discord |
@@ -115,6 +125,8 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | mounted | [mounted-7a5dfe301eaf.nnue](https://drive.google.com/u/0/uc?id=1xjLRsSP0io5yaXS8yY9oANML7o4wA-Ut&export=download) | +297 | 2022/04/15 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#mounted)
 | newzealand | [newzealand-464a42989876.nnue](https://drive.google.com/u/0/uc?id=11TC1irKBewo25nbqpX2o0tdgQuyrWjMx&export=download) | +359 | 2022/09/20 | belzedar_ in discord |
 | nightrider | [nightrider-5086efb80097.nnue](https://drive.google.com/u/0/uc?id=1YEEuEjhzCBEXMw0NPgNxWak7q_35OKSZ&export=download) | +420 | 2022/06/26 | belzedar_ in discord |
+| nocheckatomic |  |  | | | Compatible with atomic networks
+| normal |  |  | | | Compatible with chess (`nn-...`) networks
 | nuclear | [nuclear-1c14657d0d4f.nnue](https://drive.google.com/u/0/uc?id=1SxWxugvlOiw_Fz2gQ-XywGp6QO3zXTpw&export=download) | +156 | 2023/09/04 | belzedar_ in discord |
 | omicron | [omicron-01e515951a2d.nnue](https://drive.google.com/u/0/uc?id=15jyKkfyyCzedwc0qZTjeJgdSiGHiId9Z&export=download) | +338 | 2023/02/03 | belzedar_ in discord |
 | orda | [orda-ac0af819f3a3.nnue](https://drive.google.com/u/0/uc?id=1jqvVVfxLBklECx14N6aLPnMVf5CZ8iXI&export=download) | +815 | 2022/09/23 | belzedar_ in discord |
@@ -144,6 +156,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | spartan | [spartan-9dc484a393db.nnue](https://drive.google.com/u/0/uc?id=1jgLPLnW0-reBFmS2oZJXTh-3loYTMLsd&export=download) | +1266 | 2023/03/31 | belzedar_ in discord |
 | squatter  | [squatter-598de979f200.nnue](https://drive.google.com/u/0/uc?id=1PAZJ8ZYQmfkiZfJWLRSqtwWqirnKe5CD&export=download) | +1065 | 2025/07/31 | belzedar_ in discord |
 | stardust | [stardust-54dc7419ec9e.nnue](https://drive.google.com/u/0/uc?id=1VFwp2OxmdGjgEJw2TrYLuDdzms7PP5Lb&export=download) | +460 | 2022/06/13 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#stardust)
+| suicide |  |  | | | Compatible with antichess networks
 | synochess | [synochess-33c625f8ad3e.nnue](https://drive.google.com/u/0/uc?id=1yt6KEx3goaPm3W_OTaUjEPpgJXqIg0A4&export=download) | +166 | 2022/04/22 | Untitled_Entity#5718 | Only compatible with Largeboards binary. |
 | threekings | [threekings-c429a67a6578.nnue](https://drive.google.com/u/0/uc?id=1ulE-FrtedYmTabwOHhGx60ag1UbmC6lm&export=download) | +536 | 2022/09/26 | belzedar_ in discord |
 | torishogi | [torishogi-436578ceef5b.nnue](https://drive.google.com/u/0/uc?id=1fMJi2IJqSpE4w3qnIdtE3bidBy4sfRc4&export=download) | +834 | 2022/08/08 | belzedar_ in discord |
