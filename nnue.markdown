@@ -58,6 +58,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | chess | [nn-46832cfbead3.nnue](https://tests.stockfishchess.org/api/nn/nn-46832cfbead3.nnue) | +300 | | | Net from official SF
 | chessgi |  |  | | | Compatible with crazyhouse networks
 | chessvshp | [chessvshp-ab6490858f72.nnue](https://drive.google.com/u/0/uc?id=1QoOw0_KTNt1p2J0KaTDAK741od_H_uwK&export=download) | +174 | 2022/05/27 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#chess-vs-hoppel-poppel)
+| clobber | [clobber-7b4cb431501a.nnue](https://drive.google.com/u/0/uc?id=11X7EXpcdAx_FUQh--jPaqNCT5jMGxhT0&export=download) | +246 | 2025/09/11 | Fabian Fichter |
 | coffeehouse | [coffeehouse-382a268a1ce4.nnue](https://drive.google.com/u/0/uc?id=1DU8lI6V5kC_CKPUIgZSjNiq0ij6MnilK&export=download) | +345 | 2025/07/31 | belzedar_ in discord |
 | coffeethreecheck | [coffeethreecheck-8701c021f6e4.nnue](https://drive.google.com/u/0/uc?id=145v9OgzN2uPgsDU_WJokwzkwkSU36uBQ&export=download) | +62 | 2025/07/31 | belzedar_ in discord |
 | coregal | [coregal-ad18884bdd3d.nnue](https://drive.google.com/u/0/uc?id=1n0NMAj18LLVVB53hn19XPmc07d8a6aPR&export=download) | +265 | 2022/07/31 | belzedar_ in discord |
