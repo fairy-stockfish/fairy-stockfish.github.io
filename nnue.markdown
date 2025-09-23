@@ -58,6 +58,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | chess | [nn-46832cfbead3.nnue](https://tests.stockfishchess.org/api/nn/nn-46832cfbead3.nnue) | +300 | | | Net from official SF
 | chessgi |  |  | | | Compatible with crazyhouse networks
 | chessvshp | [chessvshp-ab6490858f72.nnue](https://drive.google.com/u/0/uc?id=1QoOw0_KTNt1p2J0KaTDAK741od_H_uwK&export=download) | +174 | 2022/05/27 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#chess-vs-hoppel-poppel)
+| chigorin | [chigorin-f17ca2b80015.nnue](https://drive.google.com/u/0/uc?id=1gSMdaXpe8vv8HkN0Qc6EW1NGrBLXHLIe&export=download) | +104 | 2025/09/23 | Fabian Fichter |
 | clobber | [clobber-7b4cb431501a.nnue](https://drive.google.com/u/0/uc?id=11X7EXpcdAx_FUQh--jPaqNCT5jMGxhT0&export=download) | +246 | 2025/09/11 | Fabian Fichter |
 | clobber10 | [clobber10-331c3272f048.nnue](https://drive.google.com/u/0/uc?id=1YTRE-dYhRkDaGKCfzFJDjWXgxq-7DQot&export=download) | +173 | 2025/09/12 | Fabian Fichter |
 | codrus | [codrus-b3e612313a2f.nnue](https://drive.google.com/u/0/uc?id=1zu3cTovsSJAjB7uQBc6MDAYzZO0rfeuv&export=download) | +90 | 2025/09/22 | Fabian Fichter |
