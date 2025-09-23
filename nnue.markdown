@@ -32,6 +32,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | atomar  | [atomar-31ef8e2fb4b6.nnue](https://drive.google.com/u/0/uc?id=1ieWTXzdOYHsBWPVdl6_ZFwhsieLyhYgV&export=download) | +407 | 2023/08/28 | belzedar_ in discord |
 | atomic  | [atomic-2cf13ff256cc.nnue](https://drive.google.com/u/0/uc?id=1bC7T3iDft8Kbuxlu3Vm2fERxk7cOSoDy&export=download) | +719 | 2022/08/24 | belzedar_ in discord |
 | atomicduck  | [atomicduck-ae91b2797135.nnue](https://drive.google.com/u/0/uc?id=1z1nR7OxDk9ARPcKj8Jth4SdPpVVJoHHA&export=download) | +419 | 2025/07/31 | belzedar_ in discord |
+| atomic-giveaway | [atomic-giveaway-cc0bb95265b4.nnue](https://drive.google.com/u/0/uc?id=1igPqGVwnWK2XXXEEI8dMGmWbAb5e33XO&export=download) | +478 | 2025/09/23 | Fabian Fichter |
 | backrank | [backrank-db95f88c50c9.nnue](https://drive.google.com/u/0/uc?id=1xF02gcBh7OJLiAy4apUXdNfgmswsl_7H&export=download) | +1165 | 2022/05/03 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#backrank)
 | berolina | [berolina-b7130416b32e.nnue](https://drive.google.com/u/0/uc?id=1lEq4igofllbj1DbfHAy5RM1sn2lUhGaX&export=download) | +1069 | 2023/04/02 | belzedar_ in discord |
 | blackletter  | [blackletter-ec42c02c7ebf.nnue](https://drive.google.com/u/0/uc?id=1GoXZrl8XDwJjQZLCpn9fLWx-PLXD4m7i&export=download) | +726 | 2025/07/31 | belzedar_ in discord |
