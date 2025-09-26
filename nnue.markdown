@@ -155,6 +155,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | shogi  | [shogi-878ca61334a7.nnue](https://drive.google.com/u/0/uc?id=1RA0mstKWi_tH98DVdLGBamEdE8FXiSgB&export=download) | >+1000 | | Fabian Fichter |
 | shogun | [shogun-52c778c11e79.nnue](https://drive.google.com/u/0/uc?id=185Z5IY6qE3Mssolj1lKK0cvPR6HZEwXJ&export=download) | +609 | 2022/05/10 | belzedar_ in discord | Only compatible with Largeboards binary. |
 | shouse | [shouse-a9ca0fc73863.nnue](https://drive.google.com/u/0/uc?id=1tG1seU2zmLKIlF8IkcAdkejY7aQ_Iad4&export=download) | +372 | 2022/04/18 | belzedar_ in discord | Seirawan + Crazyhouse
+| shoshogi  | [shoshogi-38e67889f097.nnue](https://drive.google.com/u/0/uc?id=1PzOJ-8xSoUB1L8cMGdUGAQjFauOv1l1D&export=download) | +800 | 2025/09/26 | Fabian Fichter |
 | sittuyin | [sittuyin-04ade227fe43.nnue](https://drive.google.com/u/0/uc?id=1eDRLpEZ53kJnycfvNVqdr6KIrPpeBUO1&export=download) | +202 | 2022/09/29 | belzedar_ in discord |
 | sixthrank | [sixthrank-a4350d92b723.nnue](https://drive.google.com/u/0/uc?id=1Wb4hX4OxHlSbBXSCKL06YVMt2ODnI1lu&export=download) | +420 | 2022/04/19 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#sixth-rank-chess)
 | snailtrail  | [snailtrail-bab057618363.nnue](https://drive.google.com/u/0/uc?id=1C3MdAvvn-5WxuJbDd0N6m7xjhnLYpoyp&export=download) | +445 | 2023/02/03 | Mtaktikos#8757 & belzedar_ in discord |
