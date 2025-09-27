@@ -120,7 +120,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | makruk  | [makruk-a8c621e24a8c.nnue](https://drive.google.com/u/0/uc?id=1jOhdVe1VBZjBaPWO2IYR1_iscyMA0ylW&export=download) | +248 | 2022/09/19 | belzedar_ in discord | also available as [release with built-in NNUE](https://github.com/fairy-stockfish/Fairy-Stockfish-NNUE/releases/tag/makruk-a8c621e24a8c)
 | makrukhouse | [makrukhouse-3b28cf864f23.nnue](https://drive.google.com/u/0/uc?id=1C0e8hhhbNzYs1epvKozKOO063wtCdvWI&export=download) | +600 | 2022/09/19 | belzedar_ in discord |
 | maktomic  | [maktomic-49caa011bef4.nnue](https://drive.google.com/u/0/uc?id=12vGahyxo1nPNw4iCGnvCmOyjYlREUGNF&export=download) | +77 | 2025/07/31 | belzedar_ in discord |
-| manchu | [manchu-6e95bcfa334f.nnue](https://drive.google.com/u/0/uc?id=1pTInPVdRXBhK57JhKUqUt9Ebse9Rje26&export=download) | +290 | 2024/09/03 | Fabian Fichter |
+| manchu | [manchu-5a3a9e80c0eb.nnue](https://drive.google.com/u/0/uc?id=1_Mym0W84WXliuRBD2m0sFx3BFat4-5a6&export=download) | +437 | 2025/09/27 | Fabian Fichter |
 | mansindam | [mansindam-dc396c59a74b.nnue](https://drive.google.com/u/0/uc?id=1Q_H1rh-1gaYoT1nE7C16FzVm3abJIggl&export=download) | +441 | 2023/04/21 | belzedar_ in discord |
 | massacre | [massacre-06c1f5400bba.nnue](https://drive.google.com/u/0/uc?id=1u1cPi0ffvNe06IPWzQ6vC6DOZJIk88Sq&export=download) | +284 | 2022/04/18 | mtaktikos#8757 | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#massacre-chess)
 | minihouse  | [minihouse-d415b4dbfe2c.nnue](https://drive.google.com/u/0/uc?id=19gz3KKtbZuIJfvnWFS99GLamzXW1Pk9N&export=download) | +176 | 2023/09/19 | belzedar_ in discord |
