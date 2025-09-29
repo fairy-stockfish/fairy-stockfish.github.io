@@ -163,7 +163,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | squatter  | [squatter-598de979f200.nnue](https://drive.google.com/u/0/uc?id=1PAZJ8ZYQmfkiZfJWLRSqtwWqirnKe5CD&export=download) | +1065 | 2025/07/31 | belzedar_ in discord |
 | stardust | [stardust-54dc7419ec9e.nnue](https://drive.google.com/u/0/uc?id=1VFwp2OxmdGjgEJw2TrYLuDdzms7PP5Lb&export=download) | +460 | 2022/06/13 | belzedar_ in discord | [Custom defined variant](https://github.com/fairy-stockfish/Fairy-Stockfish/wiki/Variant-configuration#stardust)
 | suicide |  |  | | | Compatible with antichess networks
-| synochess | [synochess-33c625f8ad3e.nnue](https://drive.google.com/u/0/uc?id=1yt6KEx3goaPm3W_OTaUjEPpgJXqIg0A4&export=download) | +166 | 2022/04/22 | Untitled_Entity#5718 | Only compatible with Largeboards binary. |
+| synochess | [synochess-33c625f8ad3e.nnue](https://drive.google.com/u/0/uc?id=1yt6KEx3goaPm3W_OTaUjEPpgJXqIg0A4&export=download) | +352 | 2022/04/22 | Untitled_Entity#5718 | Only compatible with Largeboards binary. |
 | threekings | [threekings-c429a67a6578.nnue](https://drive.google.com/u/0/uc?id=1ulE-FrtedYmTabwOHhGx60ag1UbmC6lm&export=download) | +536 | 2022/09/26 | belzedar_ in discord |
 | torishogi | [torishogi-436578ceef5b.nnue](https://drive.google.com/u/0/uc?id=1fMJi2IJqSpE4w3qnIdtE3bidBy4sfRc4&export=download) | +834 | 2022/08/08 | belzedar_ in discord |
 | torpedo | [torpedo-25da2c94c6cb.nnue](https://drive.google.com/u/0/uc?id=1GQHE3efeHFeu8OqQw98v6md17P_aOXpO&export=download) | +339 | 2023/04/07 | belzedar_ in discord |
