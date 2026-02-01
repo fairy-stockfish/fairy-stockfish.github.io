@@ -12,7 +12,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 
 |  variant | network | Elo vs. classical | date | author | comment |
 |---|---|---|---|---|---|
-| 3check  | [3check-cb5f517c228b.nnue](https://drive.google.com/u/0/uc?id=1z5oUQbqiE0ZIoQ8Z64y2lF91Rz1rUoWP&export=download) | +200 | | nishibuya in discord |
+| 3check  | [3check-cb5f517c228b.nnue](https://drive.google.com/u/0/uc?id=1z5oUQbqiE0ZIoQ8Z64y2lF91Rz1rUoWP&export=download) | +200 | 2024/09/18 | nishibuya in discord |
 | 5check  |  |  | | | Compatible with 3check networks
 | active | [active-41937adf950a.nnue](https://drive.google.com/u/0/uc?id=10hbC8MNAvWWX8GJOhXiOkmqVX5XM-hSa&export=download) | +273 | 2025/07/31 | belzedar_ in discord |
 | ai-wok | [ai-wok-530fdd028e59.nnue](https://drive.google.com/u/0/uc?id=1x0Yk__LJEU91D0kjyCmdJc0qcf_nYDYU&export=download) | +352 | 2022/04/15 | belzedar_ in discord |
