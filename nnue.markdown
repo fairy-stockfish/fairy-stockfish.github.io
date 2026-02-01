@@ -176,3 +176,5 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | xiangqihouse | [xiangqihouse-dc5b4560e41c.nnue](https://drive.google.com/u/0/uc?id=1DkyasRcxpt9D5kE8MH4JsZGUDmaS6s44&export=download) | +535 | 2022/06/13 | belzedar_ in discord | Xiangqi + Crazyhouse hybrid variant
 
 When a variant is specified as compatible to networks of a different variant, such as cambodian->makruk, the NNUE network can simply be used with the current name, it does **not** need to be renamed. E.g., `makruk-....nnue` can be directly used for cambodian as well as makruk.
+
+All networks with a date in 2026 or later are published under CC0 license.
