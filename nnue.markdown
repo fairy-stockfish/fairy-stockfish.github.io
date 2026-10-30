@@ -149,7 +149,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | shaolinking | [shaolinking-ad85d8c73ff6.nnue](https://drive.google.com/u/0/uc?id=1Wny8-rirEPar2F2KCXOXyxLmH0gSFSnc&export=download) | +500 | 2024/08/30 | nishibuya in discord | [Custom defined variant](https://github.com/autocorr/pychess-variants/blob/050cbca8a517c6ef50b1a6953e2a231adb06c7ed/variants.ini#L677)
 | shako  | [shako-132828f9a311.nnue](https://drive.google.com/u/0/uc?id=1WbV0E5ruRpNQfmLm6m-ue8iP9wb8MZLD&export=download) | +355 | 2022/06/26 | belzedar_ in discord |
 | shatar | [shatar-9798d8353f1e.nnue](https://drive.google.com/u/0/uc?id=10DF_Rj8DcGkYjtylbZ4VnHwj8slth0CU&export=download) | +228 | 2022/04/20 | belzedar_ in discord |
-| shatranj  | [shatranj-2859a2411c29.nnue](https://drive.google.com/u/0/uc?id=1rexLnBvGkdJYqzhFGQZQ1T8LTbmx0PIV&export=download) | +278 | 2024/09/17 | Fabian Fichter |
+| shatranj  | [shatranj-09bfa52e776f.nnue](https://drive.google.com/u/0/uc?id=17qL4MFJxThnn8qnHhsUUzX5sr8RzWNY-&export=download) | +400 | 2026/10/30 | sscg13 | based on Prolix data
 | shinobi | [shinobi-5136c71b83bf.nnue](https://drive.google.com/u/0/uc?id=1Gvwkxs_aMP57RDYndxtwNpytyf4xHEAi&export=download) | +790 | 2022/05/10 | belzedar_ in discord | Only compatible with Largeboards binary. |
 | shinobiplus | [shinobiplus-3f956bad5d14.nnue](https://drive.google.com/u/0/uc?id=1L5gwtoWyJVJDSRLlqhqxxEmUD2JgqVCb&export=download) | +696 | 2023/06/07 | GemOfLife#3419 | Only compatible with Largeboards binary. |
 | shogi  | [shogi-878ca61334a7.nnue](https://drive.google.com/u/0/uc?id=1RA0mstKWi_tH98DVdLGBamEdE8FXiSgB&export=download) | >+1000 | | Fabian Fichter |
