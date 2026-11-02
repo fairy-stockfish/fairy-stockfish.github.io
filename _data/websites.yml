@@ -1,6 +1,6 @@
 intro: |-
   Fairy-Stockfish is used on many chess variant websites, most notably on [lichess.org](https://lichess.org/) and [pychess.org](https://www.pychess.org/).
-  If you want to experiment with custom variants, [Fairyground](https://fairyground.vercel.app/) might be a good place to start.
+  If you want to experiment with custom variants, [Fairyground](https://play.fairy-stockfish.org/) might be a good place to start.
 
 
 items:
@@ -8,10 +8,10 @@ items:
     subtitle: Fairy-Stockfish playground
     description: |-
       Fairyground serves as a playground to try out Fairy-Stockfish online with custom variants, enabling game play and interactive analysis.
-    link: https://fairyground.vercel.app/
+    link: https://play.fairy-stockfish.org/
     link_text: Open fairyground
     tags: Custom variants
-    github: ianfab/fairyground
+    github: fairy-stockfish/fairyground
   - title: Lichess
     subtitle: Chess server
     description: |-
