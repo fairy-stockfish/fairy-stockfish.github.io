@@ -25,4 +25,4 @@ promotionPieceTypes = nrqa
 startFen = rnaqkanr/pppppppp/8/8/8/8/PPPPPPPP/RNAQKANR w KQkq - 0 1
 ```
 
-And that's already it. We can now e.g. go to the [Fairy-Stockfish playground](https://fairyground.vercel.app/) to test it directly in the browser. Just paste the above configuration to a file and load that file in the `variants.ini` section. After selecting `ourtestvariant` you should be able to play the variant against the Fairy-Stockfish or let it play against itself.
+And that's already it. We can now e.g. go to the [Fairy-Stockfish playground](https://play.fairy-stockfish.org/) to test it directly in the browser. Just paste the above configuration to a file and load that file in the `variants.ini` section. After selecting `ourtestvariant` you should be able to play the variant against the Fairy-Stockfish or let it play against itself.

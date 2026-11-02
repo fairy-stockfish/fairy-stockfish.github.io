@@ -16,7 +16,7 @@ Below is an overview of the latest release binaries for Fairy-Stockfish. You sho
 
 After downloading the engine you will likely also want to download a [graphical user interface](/gui/) compatible with Fairy-Stockfish. Furthermore you can optionally also download [NNUE files](/nnue/) for your favorite variants to improve playing strength if desired. You can skip this step if you download one of the specialized versions (xiangqi/janggi/makruk) that already include the NNUE in the engine itself.
 
-If you want to first try out the engine online before downloading it, you can have a look at the [websites using Fairy-Stockfish](/online/), e.g., the [Fairy-Stockfish playground](https://fairyground.vercel.app/).
+If you want to first try out the engine online before downloading it, you can have a look at the [websites using Fairy-Stockfish](/online/), e.g., the [Fairy-Stockfish playground](https://play.fairy-stockfish.org/).
 
 ## Windows
 
