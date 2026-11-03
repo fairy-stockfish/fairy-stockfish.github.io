@@ -152,7 +152,7 @@ This is an alphabetical list of current best variant NNUE networks available at 
 | shatranj  | [shatranj-09bfa52e776f.nnue](https://drive.google.com/u/0/uc?id=17qL4MFJxThnn8qnHhsUUzX5sr8RzWNY-&export=download) | +400 | 2026/10/30 | sscg13 | based on Prolix data
 | shinobi | [shinobi-5136c71b83bf.nnue](https://drive.google.com/u/0/uc?id=1Gvwkxs_aMP57RDYndxtwNpytyf4xHEAi&export=download) | +790 | 2022/05/10 | belzedar_ in discord | Only compatible with Largeboards binary. |
 | shinobiplus | [shinobiplus-3f956bad5d14.nnue](https://drive.google.com/u/0/uc?id=1L5gwtoWyJVJDSRLlqhqxxEmUD2JgqVCb&export=download) | +696 | 2023/06/07 | GemOfLife#3419 | Only compatible with Largeboards binary. |
-| shogi  | [shogi-e95659ce6e90.nnue](https://drive.google.com/u/0/uc?id=1zb1HYplLWY_y8QQ5vX_aY6l__PF_vQZ9&export=download) | >+1000 | 2026/11/02 | Fabian Fichter |
+| shogi  | [shogi-9ab5e57f31d0.nnue](https://drive.google.com/u/0/uc?id=1fRMEmhA0xfEpkT7LuJciJqx-C_t_EleU&export=download) | >+1000 | 2026/11/03 | Fabian Fichter |
 | shogun | [shogun-52c778c11e79.nnue](https://drive.google.com/u/0/uc?id=185Z5IY6qE3Mssolj1lKK0cvPR6HZEwXJ&export=download) | +609 | 2022/05/10 | belzedar_ in discord | Only compatible with Largeboards binary. |
 | shouse | [shouse-a9ca0fc73863.nnue](https://drive.google.com/u/0/uc?id=1tG1seU2zmLKIlF8IkcAdkejY7aQ_Iad4&export=download) | +372 | 2022/04/18 | belzedar_ in discord | Seirawan + Crazyhouse
 | shoshogi  | [shoshogi-38e67889f097.nnue](https://drive.google.com/u/0/uc?id=1PzOJ-8xSoUB1L8cMGdUGAQjFauOv1l1D&export=download) | +800 | 2025/09/26 | Fabian Fichter |
